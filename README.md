@@ -1,7 +1,7 @@
 # WikiHIT
 NETS213 Final Project
 
-→ (1) Collect Harry’s (Li Zhang) model data 
+→ (1) Collect Harry’s (Li Zhang) model data \\
   → (1a) User interface website for users to test out and obtain outputs from the model (4 pt)
   → (1b) Build/deploy/manage AMT HITs asking if a step is relevant to a given article (2.5 pt) 
       → Implement quality control (quality control module, gold-standard: 1 layer down on tree w/ BFS,            direct hyperlinks on the WikiHow page) (2pt)
