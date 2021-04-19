@@ -13,7 +13,6 @@ with open(filename) as f:
 
 rows = []
 
-c = 0
 for goal, entry in data.items():
     l = []
     l.append(goal)
