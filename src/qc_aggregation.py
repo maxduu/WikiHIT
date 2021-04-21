@@ -29,12 +29,14 @@ def quality_control(mturk_res):
           df_dic[key] = ans
           df_tries[key] = 1
   
-  output = {}
+  # output = {}
+  tuples = []
 
   for key in df_dic:
-    output[key] = df_dic[key] / df_tries[key]
+    # output[key] = df_dic[key] / df_tries[key]
+    tuples.append((key, df_dic[key] / df_tries[key]))
 
-  return output
+  return tuples
 
 quality_control(mturk_res)
 
@@ -62,6 +64,7 @@ def aggregation(mturk_res):
           response_votes[key_ans] = 1
 
   output = {}
+  tuples = []
 
   for input in inputs:
     max = 0
@@ -77,6 +80,15 @@ def aggregation(mturk_res):
     if max != 0:
       output[input] = ans
 
-  return output
+  for key in output:
+    tuples.append((key, output[key]))
+
+  return tuples
 
 aggregation(mturk_res)
+
+agg = pd.DataFrame(aggregation(mturk_res), columns =['input', 'answer'])
+qc = pd.DataFrame(quality_control(mturk_res), columns =['input', 'avg_answer'])
+
+agg.to_csv("dummy_aggregation.csv", index=False)
+qc.to_csv("dummy_quality_control.csv", index=False)
