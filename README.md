@@ -16,3 +16,11 @@ NETS213 Final Project
    → (2b) Loop back to possibly variants of AMT HITs to collect more data as necessary, continuously study how the model can be improved (3pt)
    
    → (2c) show Harry, possibly ask for more data given what we find (1pt)
+
+------ 
+Raw Data: https://github.com/maxduu/WikiHIT/blob/main/data/para_step_goal_links_gold_random.csv
+Sample Input:
+Sample Output QC:
+Sample Output Aggregation:
+Code for QC:
+Code for Aggregaiton:
