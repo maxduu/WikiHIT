@@ -4,7 +4,7 @@ import csv
 import pickle
 import random
 
-randomize_goals = False
+randomize_goals = True
 
 json_file = 'para_step_goal_links_gold'
 filename = json_file + '.json'
@@ -14,6 +14,12 @@ with open(filename) as f:
   
 with open("en_title_url.pkl", 'rb') as f:
     url_mapping = pickle.load(f)
+
+with open('goal_to_description.pkl', 'rb') as f:
+    goal_to_description = pickle.load(f)
+
+with open('goalstep_to_description.pkl', 'rb') as f:
+    goalstep_to_description = pickle.load(f)
 
 rows = []
 
@@ -53,6 +59,27 @@ for step, entry in data.items():
         else:
             l.append('')
     
+    if entry['corresponding_goal'] + ":" + step in goalstep_to_description:
+        l.append(goalstep_to_description[entry['corresponding_goal'] + ":" + step])
+    else:
+        l.append('')
+    
+    if entry['corresponding_goal'] in goal_to_description:
+        l.append(goal_to_description[entry['corresponding_goal']])
+    else:
+        l.append('')
+    
+    if entry['gold_goal'] in goal_to_description:
+        l.append(goal_to_description[entry['gold_goal']])
+    else:
+        l.append('')
+    
+    for i in range(len(retrieved_goals_list)):
+        if retrieved_goals_list[i] in goal_to_description:
+            l.append(goal_to_description[retrieved_goals_list[i]])
+        else:
+            l.append('')
+    
     rows.append(l)
     
 
@@ -86,6 +113,14 @@ with open(filename_out, 'w', newline='', encoding='utf-8') as out:
                       'retrieved_goal_url_5', 'retrieved_goal_url_6',
                       'retrieved_goal_url_7', 'retrieved_goal_url_8',
                       'retrieved_goal_url_9', 'retrieved_goal_url_10',
+                      'step_description',
+                      'corresponding_goal_description',
+                      'gold_goal_description',
+                      'retrieved_goal_description_1', 'retrieved_goal_description_2',
+                      'retrieved_goal_description_3', 'retrieved_goal_description_4',
+                      'retrieved_goal_description_5', 'retrieved_goal_description_6',
+                      'retrieved_goal_description_7', 'retrieved_goal_description_8',
+                      'retrieved_goal_description_9', 'retrieved_goal_description_10',
                       ])
     csv_out.writerows(rows)
         
