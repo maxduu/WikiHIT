@@ -4,7 +4,7 @@ import csv
 import pickle
 import random
 
-randomize_goals = True
+randomize_goals = False
 
 json_file = 'para_step_goal_links_gold'
 filename = json_file + '.json'
@@ -43,43 +43,47 @@ for step, entry in data.items():
     
     l.append(entry['retrieved_goal_rank'])
         
-    if entry['corresponding_goal'] in url_mapping and url_mapping[entry['corresponding_goal']]:
+    if entry['corresponding_goal'] in url_mapping:
         l.append(url_mapping[entry['corresponding_goal']])
     else:
-        l.append('None')
+        l.append('')
     
-    if entry['gold_goal'] in url_mapping and url_mapping[entry['gold_goal']]:
+    if entry['gold_goal'] in url_mapping:
         l.append(url_mapping[entry['gold_goal']])
     else:
-        l.append('None')
+        l.append('')
     
     for i in range(len(retrieved_goals_list)):
-        if retrieved_goals_list[i] in url_mapping and url_mapping[retrieved_goals_list[i]]:
+        if retrieved_goals_list[i] in url_mapping:
             l.append(url_mapping[retrieved_goals_list[i]])
         else:
-            l.append('None')
-    
-    if entry['corresponding_goal'] + ":" + step in goalstep_to_description and goalstep_to_description[entry['corresponding_goal'] + ":" + step]:
+            l.append('')
+
+    if entry['corresponding_goal'] + ":" + step in goalstep_to_description:
         l.append(goalstep_to_description[entry['corresponding_goal'] + ":" + step])
     else:
-        l.append('None')
+        l.append('')
     
-    if entry['corresponding_goal'] in goal_to_description and goal_to_description[entry['corresponding_goal']]:
+    if entry['corresponding_goal'] in goal_to_description:
         l.append(goal_to_description[entry['corresponding_goal']])
     else:
-        l.append('None')
+        l.append('')
     
-    if entry['gold_goal'] in goal_to_description and goal_to_description[entry['gold_goal']]:
+    if entry['gold_goal'] in goal_to_description:
         l.append(goal_to_description[entry['gold_goal']])
     else:
-        l.append('None')
+        l.append('')
     
     for i in range(len(retrieved_goals_list)):
-        if retrieved_goals_list[i] in goal_to_description and goal_to_description[retrieved_goals_list[i]]:
+        if retrieved_goals_list[i] in goal_to_description:
             l.append(goal_to_description[retrieved_goals_list[i]])
         else:
-            l.append('None')
+            l.append('')
     
+    for i in range(len(l)):
+        if isinstance(l[i], str):
+            l[i] = l[i].replace('\n', ' ').replace('\r', '')
+            
     rows.append(l)
     
 
