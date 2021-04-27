@@ -43,42 +43,42 @@ for step, entry in data.items():
     
     l.append(entry['retrieved_goal_rank'])
         
-    if entry['corresponding_goal'] in url_mapping:
+    if entry['corresponding_goal'] in url_mapping and url_mapping[entry['corresponding_goal']]:
         l.append(url_mapping[entry['corresponding_goal']])
     else:
-        l.append('')
+        l.append('None')
     
-    if entry['gold_goal'] in url_mapping:
+    if entry['gold_goal'] in url_mapping and url_mapping[entry['gold_goal']]:
         l.append(url_mapping[entry['gold_goal']])
     else:
-        l.append('')
+        l.append('None')
     
     for i in range(len(retrieved_goals_list)):
-        if retrieved_goals_list[i] in url_mapping:
+        if retrieved_goals_list[i] in url_mapping and url_mapping[retrieved_goals_list[i]]:
             l.append(url_mapping[retrieved_goals_list[i]])
         else:
-            l.append('')
+            l.append('None')
     
-    if entry['corresponding_goal'] + ":" + step in goalstep_to_description:
+    if entry['corresponding_goal'] + ":" + step in goalstep_to_description and goalstep_to_description[entry['corresponding_goal'] + ":" + step]:
         l.append(goalstep_to_description[entry['corresponding_goal'] + ":" + step])
     else:
-        l.append('')
+        l.append('None')
     
-    if entry['corresponding_goal'] in goal_to_description:
+    if entry['corresponding_goal'] in goal_to_description and goal_to_description[entry['corresponding_goal']]:
         l.append(goal_to_description[entry['corresponding_goal']])
     else:
-        l.append('')
+        l.append('None')
     
-    if entry['gold_goal'] in goal_to_description:
+    if entry['gold_goal'] in goal_to_description and goal_to_description[entry['gold_goal']]:
         l.append(goal_to_description[entry['gold_goal']])
     else:
-        l.append('')
+        l.append('None')
     
     for i in range(len(retrieved_goals_list)):
-        if retrieved_goals_list[i] in goal_to_description:
+        if retrieved_goals_list[i] in goal_to_description and goal_to_description[retrieved_goals_list[i]]:
             l.append(goal_to_description[retrieved_goals_list[i]])
         else:
-            l.append('')
+            l.append('None')
     
     rows.append(l)
     
