@@ -26,6 +26,16 @@ If you encounter issues or have any questions, please contact jenyen@seas.upenn.
    → (2c) show Harry, possibly ask for more data given what we find (1pt)
 
 ------ 
+## Code
+Quality Control:
+
+The quality control module works as follows: The code keeps track of two dictionaries, df_dic, which keeps track of the sum of the responses for each input, and df_tries, which keeps track of the number of responses this input had. The function then iterates through the dataframe to update both dictionaries and at the end, returns a lit of tuples where the key is the input and the value is the average response, i.e. the sum of the responses for a given input divided by the number of reponses it had.
+
+Aggregation:
+
+The aggregation module works as a simple majority vote. The MTurk results csv is passed into the function and the code keeps track of two things: a list of inputs and a dictionary where the key is the input + the response and the value is the number of times that response was given for that input. The code then iterates through the inputs array and gets the response from the dictionary with the max value and outputs a list of tuples containing the input and the majority vote response for it.
+
+------
 Raw Data: https://github.com/maxduu/WikiHIT/blob/main/data/para_step_goal_links_gold_random.csv
 Sample Input:
 Sample Output QC:
