@@ -23,11 +23,15 @@ with open('goalstep_to_description.pkl', 'rb') as f:
 
 rows = []
 
+data_list = list(data.items())
+
 for step, entry in data.items():
     l = []
     l.append(step)
     l.append(entry['corresponding_goal'])
     l.append(entry['gold_goal'])
+    negative_step, negative_entry = random.choice(data_list)
+    l.append(negative_entry['gold_goal'])
     retrieved_goals_list = entry['retrieved_goals']
     retrieved_goals_similarity_list = entry['retrieved_goals_similarity']
     
@@ -47,12 +51,17 @@ for step, entry in data.items():
         l.append(url_mapping[entry['corresponding_goal']])
     else:
         l.append('')
-    
+
     if entry['gold_goal'] in url_mapping:
         l.append(url_mapping[entry['gold_goal']])
     else:
         l.append('')
-    
+        
+    if negative_entry['gold_goal'] in url_mapping:
+        l.append(url_mapping[negative_entry['gold_goal']])
+    else:
+        l.append('')
+
     for i in range(len(retrieved_goals_list)):
         if retrieved_goals_list[i] in url_mapping:
             l.append(url_mapping[retrieved_goals_list[i]])
@@ -71,6 +80,11 @@ for step, entry in data.items():
     
     if entry['gold_goal'] in goal_to_description:
         l.append(goal_to_description[entry['gold_goal']])
+    else:
+        l.append('')
+        
+    if negative_entry['gold_goal'] in goal_to_description:
+        l.append(goal_to_description[negative_entry['gold_goal']])
     else:
         l.append('')
     
@@ -94,11 +108,13 @@ if randomize_goals:
 else:
     filename_out += '_identical.csv'
 
+
 with open(filename_out, 'w', newline='', encoding='utf-8') as out:
     csv_out=csv.writer(out)
     csv_out.writerow(['step',
                       'corresponding_goal',
                       'gold_goal',
+                      'negative_goal',
                       'retrieved_goal_1', 'retrieved_goal_2',
                       'retrieved_goal_3', 'retrieved_goal_4',
                       'retrieved_goal_5', 'retrieved_goal_6',
@@ -112,6 +128,7 @@ with open(filename_out, 'w', newline='', encoding='utf-8') as out:
                       'retrieved_goal_rank',
                       'corresponding_goal_url',
                       'gold_goal_url',
+                      'negative_goal_url',
                       'retrieved_goal_url_1', 'retrieved_goal_url_2',
                       'retrieved_goal_url_3', 'retrieved_goal_url_4',
                       'retrieved_goal_url_5', 'retrieved_goal_url_6',
@@ -120,6 +137,7 @@ with open(filename_out, 'w', newline='', encoding='utf-8') as out:
                       'step_description',
                       'corresponding_goal_description',
                       'gold_goal_description',
+                      'negative_goal_description',
                       'retrieved_goal_description_1', 'retrieved_goal_description_2',
                       'retrieved_goal_description_3', 'retrieved_goal_description_4',
                       'retrieved_goal_description_5', 'retrieved_goal_description_6',
@@ -127,4 +145,4 @@ with open(filename_out, 'w', newline='', encoding='utf-8') as out:
                       'retrieved_goal_description_9', 'retrieved_goal_description_10',
                       ])
     csv_out.writerows(rows)
-        
+
