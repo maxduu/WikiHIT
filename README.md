@@ -37,8 +37,7 @@ The aggregation module works as a simple majority vote. The MTurk results csv is
 
 ------
 Raw Data: https://github.com/maxduu/WikiHIT/blob/main/data/para_step_goal_links_gold_random.csv
-Sample Input:
-Sample Output QC:
-Sample Output Aggregation:
-Code for QC:
-Code for Aggregaiton:
+Code to obtain CSV Data: 
+Sample HIT Output:
+Sample Output QC & Aggregation:
+Code for QC & Aggregation:
