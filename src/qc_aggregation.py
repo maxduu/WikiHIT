@@ -19,7 +19,7 @@ def quality_control(mturk_res):
     # Map workers to total number of HITs done
     worker_to_total = {}
     
-    # Map workers to total number of HITs done that satify our conditions
+    # Map workers to total number of HITs done that satisfy our conditions
     worker_to_positive = {}
     worker_to_negative = {}
     
@@ -35,7 +35,7 @@ def quality_control(mturk_res):
             worker_to_positive[worker] = 0
             worker_to_negative[worker] = 0
         
-        # Check if gold quality control is correct
+        # Check if positive quality control is correct
         if row["Answer.wordGold"] == 1:
             worker_to_positive[worker] += 1
         
@@ -89,12 +89,14 @@ def aggregation(mturk_res, qualified_workers):
 
     tuples = []
     for stepgoal, votes in stepgoal_to_votes.items():
+        # Find most popular answer
         final_ans = votes.index(max(votes))
         split = stepgoal.split("::")
         step = split[0]
         goal = split[1]
         tuples.append((step, goal, final_ans))
-
+        
+    # Return tuples sorted alphabetically by step, and then goal
     return sorted(tuples, key=lambda item: (item[0], item[1]))
 
 qualified_workers = quality_control(mturk_res)
