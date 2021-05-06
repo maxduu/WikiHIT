@@ -4,16 +4,20 @@
 <!-- For the full list of available Crowd HTML Elements and their input/output documentation,
       please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
 
+
 <!-- You must include crowd-form so that your task submits answers to MTurk -->
 <crowd-form answer-format="flatten-objects">
-    <p><b>Imagine you're reading about "<a href="${corresponding_goal_url}" target="_blank">How to ${corresponding_goal}"</a>, which suggests a step: "${step}."</b></p>
-    <p><b>A preview will be given of the article in italics if available. </b></p>
-    <p><b>For each of the articles below, pick one of the following options (must answer all): </b></p>
+    <p><b>Imagine you're reading about "<a href="${corresponding_goal_url}" target="_blank">How to ${corresponding_goal}"</a>, which suggests a step:</b></p>
+    <p><h3><b>"${step}"</b></h3></p>
+    
+    <p><b>For each of the articles below, pick one of the following options: </b></p>
     <p>1: The article explains exactly how to do the step.</p>
     <p>2: The article explains something close enough, but it's too general.</p>
     <p>3: The article explains something close enough, but it's too specific.</p>
     <p>4: The article explains something related, but I don't think I can do the step with the instructions.</p>
     <p>0: The article is unrelated to the step.</p>
+    
+    <p><b>If available, a preview of the article will be given in italics.</b></p>
     <!-- The crowd-classifier element will create a tool for the Worker to select the
            correct answer to your question.
 
@@ -25,9 +29,9 @@
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_1}" target="_blank">"How to ${retrieved_goal_1}"</a> help explain how to do that step?</b></p>
         <!--<crowd-input type="text" name="word1" placeholder="(1,2,3,4,0)" style="width: 120px"></crowd-input>-->
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_1}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_1}</i>
             <form style="margin-top: 35px">
-                <select name='choose1' required>
+                <select id='choose1' name='choose1'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -40,9 +44,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_2}" target="_blank">"How to ${retrieved_goal_2}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_2}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_2}</i>
             <form style="margin-top: 35px">
-                <select name='choose2' required>
+                <select id='choose2' name='choose2'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -55,9 +59,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_3}" target="_blank">"How to ${retrieved_goal_3}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_3}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_3}</i>
             <form style="margin-top: 35px">
-                <select name='choose3' required>
+                <select id='choose3' name='choose3'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -70,9 +74,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_4}" target="_blank">"How to ${retrieved_goal_4}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_4}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_4}</i>
             <form style="margin-top: 35px">
-                <select name='choose4' required>
+                <select id='choose4' name='choose4'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -85,9 +89,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_5}" target="_blank">"How to ${retrieved_goal_5}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_5}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_5}</i>
             <form style="margin-top: 35px">
-                <select name='choose5' required>
+                <select id='choose5' name='choose5'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -100,9 +104,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${negative_goal_url}" target="_blank">"How to ${negative_goal}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${negative_goal_description}</i>
+        <p><br/><i style="font-size: 12px">${negative_goal_description}</i>
             <form style="margin-top: 35px">
-                <select name='chooseNegative' required>
+                <select id='chooseNegative' name='chooseNegative'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -115,9 +119,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_6}" target="_blank">"How to ${retrieved_goal_6}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_6}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_6}</i>
             <form style="margin-top: 35px">
-                <select name='choose6' required>
+                <select id='choose6' name='choose6'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -130,9 +134,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${gold_goal_url}" target="_blank">"How to ${gold_goal}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${gold_goal_description}</i>
+        <p><br/><i style="font-size: 12px">${gold_goal_description}</i>
             <form style="margin-top: 35px">
-                <select name='chooseGold' required>
+                <select id='chooseGold' name='chooseGold'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -145,9 +149,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_7}" target="_blank">"How to ${retrieved_goal_7}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_7}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_7}</i>
             <form style="margin-top: 35px">
-                <select name='choose7' required>
+                <select id='choose7' name='choose7'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -160,9 +164,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article "<a href="${retrieved_goal_url_8}" target="_blank">"How to ${retrieved_goal_8}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_8}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_8}</i>
             <form style="margin-top: 35px">
-                <select name='choose8' required>
+                <select id='choose8' name='choose8'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -175,9 +179,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article "<a href="${retrieved_goal_url_9}" target="_blank">"How to ${retrieved_goal_9}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_9}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_9}</i>
             <form style="margin-top: 35px">
-                <select name='choose9' required>
+                <select id='choose9' name='choose9'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -190,9 +194,9 @@
     </div>
     <div style="display: flex" class="q">
         <p><b>Does this article "<a href="${retrieved_goal_url_10}" target="_blank">"How to ${retrieved_goal_10}"</a> help explain how to do that step?</b></p>
-        <p><br/><i style="font-size: 13px">${retrieved_goal_description_10}</i>
+        <p><br/><i style="font-size: 12px">${retrieved_goal_description_10}</i>
             <form style="margin-top: 35px">
-                <select name='choose10' required>
+                <select id='choose10' name='choose10'>
                     <option selected="selected" value="" disabled></option>
                     <option value="1">1: The article explains exactly how to do the step.</option>
                     <option value="2">2: The article explains something close enough, but it's too general.</option>
@@ -203,15 +207,6 @@
             </form>
         </p>
     </div>
-    <script type='text/javascript'>
-        window.onload = function() {
-            document.getElementById('submitButton').setAttribute('onclick', 'return validateForms()');
-        }
-
-        function validateForms() {
-            return false;
-        }
-    </script>
     <short-instructions>
         <p>In the given artcles, answer using the numerical key if it explains how to do a particular step</p>
         <p>A preview will be given of the article in italics. </p>
@@ -227,3 +222,27 @@
     </full-instructions>
     <!--</crowd-image-classifier>-->
 </crowd-form>
+
+<script type='text/javascript'>
+    function validateForms() {
+        return document.getElementById("choose1").value &&
+        document.getElementById("choose2").value &&
+        document.getElementById("choose3").value &&
+        document.getElementById("choose4").value &&
+        document.getElementById("choose5").value &&
+        document.getElementById("choose6").value &&
+        document.getElementById("choose7").value &&
+        document.getElementById("choose8").value &&
+        document.getElementById("choose9").value &&
+        document.getElementById("choose10").value &&
+        document.getElementById("chooseGold").value &&
+        document.getElementById("chooseNegative").value;
+    }
+    
+    document.querySelector('crowd-form').onsubmit = function(e ) {
+        if (!validateForms()) {
+            e.preventDefault();
+            alert("Please provide an answer for all questions.");
+        }
+    }
+</script>

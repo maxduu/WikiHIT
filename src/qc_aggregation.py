@@ -5,7 +5,7 @@ NETS 213 Final QC Aggregation.ipynb
 
 import pandas as pd
 
-mturk_res = pd.read_csv('../output/sample_output.csv')
+mturk_res = pd.read_csv('../data/final_results_mturk.csv')
 
 '''
 QUALITY CONTROL Module:
@@ -16,6 +16,11 @@ Out of a worker's completed HITs,
 AND >= 75% "Answer.wordNegative" is 0  
 '''
 def quality_control(mturk_res):
+    
+    total = 0
+    total_negative = 0
+    total_positive = 0
+    
     # Map workers to total number of HITs done
     worker_to_total = {}
     
@@ -26,6 +31,7 @@ def quality_control(mturk_res):
     qualified = set()
     
     for index, row in mturk_res.iterrows():
+        total += 1
         worker = row['WorkerId']
         
         if worker in worker_to_total:
@@ -36,13 +42,14 @@ def quality_control(mturk_res):
             worker_to_negative[worker] = 0
         
         # Check if positive quality control is correct
-        if row["Answer.wordGold"] == 1:
+        if row["Answer.chooseGold"] == 1:
+            total_positive += 1
             worker_to_positive[worker] += 1
         
         # Check if negative quality control is correct
-        if row["Answer.wordNegative"] != 0:
+        if row["Answer.chooseNegative"] == 1:
+            total_negative += 1
             worker_to_negative[worker] += 1
-        
 
     # List to store tuples for qualified workers
     for worker in worker_to_total:
@@ -52,10 +59,14 @@ def quality_control(mturk_res):
         positive_prop = positive_hits / total_hits
         negative_prop = negative_hits / total_hits
         # Check both conditions
-        if positive_prop >= .75 and negative_prop >= .75:
+        if positive_prop >= 0 and negative_prop >= .5:
             qualified.add(worker)
     
     # Return set of qualified workers
+    
+    print(total)
+    print(total_positive)
+    print(total_negative)
     return qualified
 
 # Helper method that ensures HIT only has 0, 1, 2, 3, or 4 for answer
@@ -83,7 +94,7 @@ def aggregation(mturk_res, qualified_workers):
                 if stepgoal not in stepgoal_to_votes:
                     stepgoal_to_votes[stepgoal] = [0, 0, 0, 0, 0]
                 
-                ans = row['Answer.word' + str(i)]
+                ans = row['Answer.choose' + str(i)]
                 if valid_num(ans):
                     stepgoal_to_votes[stepgoal][ans] += 1
 
@@ -100,6 +111,11 @@ def aggregation(mturk_res, qualified_workers):
     return sorted(tuples, key=lambda item: (item[0], item[1]))
 
 qualified_workers = quality_control(mturk_res)
+
+print(len(qualified_workers))
+
+'''
 output = aggregation(mturk_res, qualified_workers)
 agg = pd.DataFrame(output, columns=['step', 'retrieved_goal', 'answer'])
 agg.to_csv("../output/sample_qc_aggregation_output.csv", index=False)
+'''

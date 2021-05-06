@@ -1,4 +1,5 @@
 data/goalstep_to_description.pkl
+data/js_files_en
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
