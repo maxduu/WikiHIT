@@ -29,21 +29,21 @@
           "https://s3.amazonaws.com/cv-demo-images/one-bird.jpg" -->
     <!--<crowd-form name="form">-->
     <div style="display: flex" class="q">
-        <div style="display: flex" class="q">
-            <p><b>Does this article <a href="${negative_goal_url}" target="_blank">"How to ${negative_goal}"</a> help explain how to do that step?</b></p>
-            <p><br/><i style="font-size: 12px">${negative_goal_description}</i>
-                <form style="margin-top: 35px">
-                    <select id='chooseNegative' name='chooseNegative'>
-                        <option selected="selected" value="" disabled></option>
-                        <option value="1">1: The article explains exactly how to do the step.</option>
-                        <option value="2">2: The article explains something close enough, but it's too general.</option>
-                        <option value="3">3: The article explains something close enough, but it's too specific.</option>
-                        <option value="4">4: The article explains something related, but I don't think I can do the step with the instructions.</option>
-                        <option value="0">0: The article is unrelated to the step.</option>
-                    </select>
-                </form>
-            </p>
-        </div>
+        <p><b>Does this article <a href="${negative_goal_url}" target="_blank">"How to ${negative_goal}"</a> help explain how to do that step?</b></p>
+        <p><br/><i style="font-size: 12px">${negative_goal_description}</i>
+            <form style="margin-top: 35px">
+                <select id='chooseNegative' name='chooseNegative'>
+                    <option selected="selected" value="" disabled></option>
+                    <option value="1">1: The article explains exactly how to do the step.</option>
+                    <option value="2">2: The article explains something close enough, but it's too general.</option>
+                    <option value="3">3: The article explains something close enough, but it's too specific.</option>
+                    <option value="4">4: The article explains something related, but I don't think I can do the step with the instructions.</option>
+                    <option value="0">0: The article is unrelated to the step.</option>
+                </select>
+            </form>
+        </p>
+    </div>
+    <div style="display: flex" class="q">
         <p><b>Does this article <a href="${retrieved_goal_url_1}" target="_blank">"How to ${retrieved_goal_1}"</a> help explain how to do that step?</b></p>
         <!--<crowd-input type="text" name="word1" placeholder="(1,2,3,4,0)" style="width: 120px"></crowd-input>-->
         <p><br/><i style="font-size: 12px">${retrieved_goal_description_1}</i>
