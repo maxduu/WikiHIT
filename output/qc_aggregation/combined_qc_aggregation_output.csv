@@ -1,0 +1,1391 @@
+category,corresponding_goal,step,retrieved_goal,retrieved_goal_similarity,answer
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Smoke Sausage,0.55681854,0
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Quit Smoking,0.5586003,1
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Smoke Meat,0.55908215,0
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Drive Through Smoke,0.57703066,0
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Cover up the Smell of Cigarette Smoke,0.57934356,4
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Do Smoke Tricks,0.581612,0
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Get Cigarette Smoke off Your Breath,0.5940812,4
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Smoke and Not Smell,0.64211583,4
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Smoke a Cigarette,0.66311145,0
+Arts and Entertainment,Keep Your Voice Safe,Don't smoke.,Smoke,0.7991333,0
+Arts and Entertainment,Build a Float,Find funding for the project.,Name a Project,0.4611423,2
+Arts and Entertainment,Build a Float,Find funding for the project.,Produce a Project Scheme,0.46221823,2
+Arts and Entertainment,Build a Float,Find funding for the project.,Apply for Legal Funding,0.46503950000000005,4
+Arts and Entertainment,Build a Float,Find funding for the project.,Make a Project Plan,0.46639234,1
+Arts and Entertainment,Build a Float,Find funding for the project.,Get Funding for a Startup Business,0.47072756,4
+Arts and Entertainment,Build a Float,Find funding for the project.,Find Money,0.5014725,3
+Arts and Entertainment,Build a Float,Find funding for the project.,Manage a Project,0.50486124,2
+Arts and Entertainment,Build a Float,Find funding for the project.,Find a Topic for a School Project,0.5160398,2
+Arts and Entertainment,Build a Float,Find funding for the project.,Do a Project,0.5565977,1
+Arts and Entertainment,Build a Float,Find funding for the project.,Create a Project Financial Plan,0.5677868,2
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Be More Open to Learning New Technology,0.4776758,1
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Acquire New Skills,0.48247778,2
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Start a New Life in a New School,0.50407314,2
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Teach Yourself a New Language,0.5695266999999999,4
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Learn,0.5987676,3
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Learn a New Language Fast,0.6125982,3
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Try Something New,0.6170268,2
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Do Something New,0.6998849,2
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Learn Something New Every Day,0.7430705,2
+Arts and Entertainment,Do Something when You're Bored,Learn something new.,Learn New Things,0.80616593,4
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Attention,0.44901642,0
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Learn to Sing Pop Without Getting a Teacher,0.44903076,1
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Singing Through Your Nose,0.45320200000000005,1
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Distractions Online,0.463329,0
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Getting Discouraged,0.46500334,1
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Distractions While Driving,0.4776485,0
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Getting Cracks in Your Voice When Singing,0.48033565,1
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Stop Getting Distracted by Your Phone when Studying,0.4973209,1
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Distractions,0.5307333000000001,0
+Arts and Entertainment,Harmonize,Learn your part perfectly to avoid getting distracted by other singers.,Avoid Distractions While Studying,0.57042015,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Make a Radio Show,0.54934436,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Peak and Tune a CB Radio,0.5703997,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Listen,0.5765274,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Be a Radio Announcer,0.5948738,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Operate a CB Radio,0.60152495,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Choose a Scanner Radio,0.6035009,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Learn a Language by Listening to the Radio,0.6453594,3
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Listen to Satellite Radio,0.69442064,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Listen to the Radio on an iPhone,0.74252474,2
+Arts and Entertainment,Legally Listen to Music for Free,Listen to the radio.,Listen to Police Radio,0.74990344,2
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play a Bm Chord on Guitar,0.5338615,1
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play Chords on the Ukulele,0.5589728,1
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play Diminished Piano Chords,0.5598801999999999,1
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Learn Music Chords,0.56272733,0
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play Major Chords on a Keyboard,0.5864345999999999,3
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Read Chords,0.59291375,2
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play a Power Chords in Drop D,0.5933970999999999,2
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play Guitar Chords,0.6452872,3
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play Chords in Music,0.6850137,0
+Arts and Entertainment,Play the F Chord on Guitar,Play other barre chords.,Play Barre Chords on a Guitar,0.77552336,1
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Do a Makeover With No Makeup,0.6656888000000001,2
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Wear Subtle Makeup,0.6714405999999999,2
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Apply Contour Makeup,0.6722093000000001,1
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Wear Eye Makeup,0.6723074,4
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Remove Makeup,0.6821098000000001,4
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Wear Makeup Appropriately,0.68670547,2
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Start Wearing Makeup,0.712098,2
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Create a No Makeup Makeup Look,0.7305083,2
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Set Your Makeup,0.7388189000000001,4
+Arts and Entertainment,Pretend to Be a Girl,Put on makeup.,Apply Makeup,0.7523658000000001,2
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Get Ready for Your Party,0.46748959999999995,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Be Successful,0.46875286,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Prepare to Perform in a Concert,0.4854062,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Succeed,0.4916710999999999,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Get Your Band Successful,0.49261007,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Prepare for the Next Grade,0.49687734,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Get Ready for Work,0.5009496,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Prepare Your Band for a Gig,0.5141928,2
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Prepare for a Concert,0.51784647,1
+Arts and Entertainment,Organise a Gig,Relax and get ready for your next successful gig.,Get Ready for Your Next Big Move,0.58177716,1
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Sew a Knitting Needle Roll Up,0.55960345,3
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Thread a Sewing Machine,0.5719310999999999,4
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Choose Sewing Thread,0.5794734,1
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Needle Punch,0.58250743,3
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Needle Felt,0.602861,2
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Do Threading,0.6135771,1
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Do Needlepoint,0.623564,2
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Thread a Needle and Tie a Knot,0.68032485,2
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Use a Needle Threader,0.8106375,1
+Arts and Entertainment,Darn Pointe Shoes,Thread the needle.,Thread a Needle,0.94162834,1
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Turn Dry Hair to Healthy Hair,0.5726774,3
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Air Dry Your Hair Straight,0.60773486,1
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Snap a Towel,0.6177725000000001,1
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Get Rid of Dry Hair and Dry Scalp,0.62899566,2
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Treat Dry Hair,0.6313411999999999,1
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Blow Dry Hair,0.6459328000000001,3
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Dry Your Hands with One Paper Towel,0.66011626,0
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Wrap Your Hair in a Towel,0.7578094,1
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Dry Your Hair,0.7871840999999999,1
+Arts and Entertainment,Style Your Hair Like the 11th Doctor,Towel dry your hair.,Towel Dry Hair,0.93745595,1
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Share Content on Your Online Network With AddThis for Firefox,0.44066495,0
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Promote Your Music Online for Free,0.4450251,4
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Share Photos Online,0.45030814,4
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Find People Online,0.4508376,3
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Share an Internet Connection,0.45111024,1
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Record a Song,0.45996892,2
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Share Your iPhone Internet Connection With Your PC,0.46649724,1
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Promote Your Online Store Online,0.48353500000000005,2
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Share Your Obituary with Your Online Friends,0.49710226,4
+Arts and Entertainment,Start Creating Music,Upload your song online so you can share it with other people.,Put Your Music Online,0.5557517,2
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write a Literary Commentary,0.56683314,2
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write Social Studies Notes,0.567186,3
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write Readable Code Without Comments,0.56724775,2
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write Report Card Comments,0.5711615,1
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Take Notes,0.57562894,4
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write a Read Me,0.59121597,2
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write a Note,0.5963875,4
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write a Commentary,0.6038578,3
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write Correspondence Notes,0.63752925,0
+Arts and Entertainment,Write a Book Summary,Write notes while you’re reading.,Write a Reading Log,0.64514107,3
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Adjust Seating to the Proper Position While Driving,0.42999375,3
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Adjust Volume when Taskbar Controls Are Blocked,0.44046623,0
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Adjust Your Seat Belt,0.4463277,0
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Remove Bicycle Handlebar Grips,0.47949606,4
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Adjust a Torsion Bar,0.4845682,2
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Adjust,0.49849224,0
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Turn Bike Handlebars Sideways,0.54995483,4
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Tape Handlebars,0.57584286,3
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Raise Road Bike Handlebars,0.57797664,2
+Cars & Other Vehicles,Size a Bike,Adjust your handlebars to ride comfortably.,Adjust Handlebars,0.81277966,4
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Pass a Drivers Written Test,0.607111,1
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Renew Your Drivers License,0.61692953,4
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Pass Your Permit Test,0.6174816999999999,1
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Pass Your Driving Test,0.64074576,4
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Prepare for an Exam,0.6434432,2
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Prepare for a Test,0.6739687,2
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Check the Points on Your Driver's License,0.6757593000000001,0
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Replace Your Driver's License,0.67697334,4
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Check Your Driver's License Status,0.6861771,0
+Cars & Other Vehicles,Get Your Driving Permit,Prepare for your driver's license test.,Prepare for a Driving Test,0.732013,1
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Replace the Battery in a Key Fob,0.4159224,0
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Create a Battery Tester,0.41947579999999995,4
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Buy Rechargeable Batteries,0.42211607,0
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Change a 2 Way Switch and a Light Fixture,0.42216796,0
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Store Batteries,0.42677763,0
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Use AAA Batteries As AA Batteries,0.43949133,0
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Recharge Batteries,0.45188326,0
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Know when You Have to Get a Replacement Battery,0.47463754,4
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Replace a Kindle Battery,0.47979793,0
+Cars & Other Vehicles,Start a Diesel Truck,Test the 2 batteries regularly and replace both when needed.,Test Your Batteries,0.49727740000000004,4
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Write a Biopoem,0.45919475,0
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Reset Your BIOS,0.45997709999999997,1
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Flash a Laptop BIOS,0.47092262,3
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Write a Personal Bio,0.47128165,0
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Access Blocked Websites,0.49218875,2
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Take Biotin,0.5146483000000001,0
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Set a BIOS Password,0.5148967000000001,2
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Write a Bio for a Dating Site,0.51844,0
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Check BIOS Version,0.52999365,0
+Computers and Electronics,Update Your Computer's BIOS,Access the BIOS page.,Enter BIOS,0.6689743,1
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Chalk a Baseball Field,0.3069313,0
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Identify a Field Spaniel,0.31379497,0
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Have a Good Time on a Field Trip,0.31429324,0
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Improve at Battlefield,0.31594429999999996,0
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Get a Job in the Legal Field,0.33492315,0
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Open Field Tackle,0.33631063,0
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Be Knowledgeable About Pop Music,0.33709845,4
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Be Talented in Multiple Areas,0.3941636,2
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Plow a Field,0.42815667,0
+Computers and Electronics,Become Tech Savvy,Be knowledgeable in many fields.,Be Knowledgeable,0.5897676,1
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,Delete Your Search History on Pinterest,0.5765948000000001,2
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,View Your Browser Downloads,0.5772944000000001,4
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,Delete Your Browsing History After Shopping for Presents,0.59016037,4
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,View Browsing History,0.59944004,4
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,Unlock Your Browser,0.5998220000000001,1
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,View Your Browser History on a Mac,0.6075063,4
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,Delete Browsing History in Internet Explorer,0.6283491,2
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,Disable Delete Browser History in Internet Explorer,0.67333776,1
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,Recover Deleted History from Your Browser,0.6980735,1
+Computers and Electronics,Not Get Caught Looking at Porn,Delete your browser history if you don’t use private browsing.,Delete Browsing History,0.7388515,4
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install a Septic System,0.6229215,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install an Irrigation System,0.6381138000000001,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install a Commercial Sound System,0.64363134,4
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install a Sprinkler System,0.64905393,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Pick an Operating System,0.64949495,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install an Operating System on a Brand New Computer,0.67890656,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install an Exhaust System,0.6798474,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install Two Operating Systems on One Computer,0.68075585,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install a Computer Operating System Using a Pendrive,0.6892953,1
+Computers and Electronics,Install a Hard Drive,Install an operating system.,Install a New Operating System on Your Computer,0.7240652,3
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Start Learning Computer Programming,0.59838015,4
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Learn Vocabulary in a Foreign Language,0.59844685,3
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Start Learning to Program,0.60151845,0
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Help Your Kid Learn in a Dual Language Program,0.6194376,3
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Become Skilled at Learning Programming Languages,0.69922763,2
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Learn Any Language,0.70669144,3
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Learn Programming Languages from Books by Yourself,0.7151384,3
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Create a Programming Language,0.73449016,3
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Learn a Language,0.7449975999999999,3
+Computers and Electronics,Become a Hacker,Learn the language of programming.,Learn a Programming Language,0.9526324,4
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Uninstall Google Chrome,0.80525696,1
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Sign Out of Google Chrome,0.81198204,1
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Allow Pop ups on Google Chrome,0.8147812,3
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Repair Google Chrome,0.82324284,1
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Reset Google Chrome,0.8234471999999999,1
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Open Google Chrome Task Manager,0.82405204,1
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Make a Google Chrome Theme,0.8352156999999999,1
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Set Up Google Chromecast,0.8396783000000001,1
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Close Google Chrome,0.85103416,2
+Computers and Electronics,Save a Link in Google Chrome,Open Google Chrome.,Use Google Chrome,0.8531112,2
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Fix Internet Explorer when It Can't Open a Webpage,0.70530796,4
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Print from Internet Explorer,0.7059483,4
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Access Internet Explorer History,0.7088539,0
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Install Internet Explorer,0.723158,4
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Manage Pop‐Ups in Internet Explorer,0.7358395999999999,0
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Zoom in Internet Explorer,0.7453371,4
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Repair Internet Explorer,0.74657273,0
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Speed Up Internet Explorer,0.75902516,4
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Close Internet Explorer,0.7941281,4
+Computers and Electronics,Customize the Ordering of Your Search Services in Internet Explorer 9,Open Internet Explorer.,Open Internet Explorer,0.97297883,1
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Set a Keyboard Shortcut to Open Mac Apps,0.43945658,1
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Download Apps,0.44061628,1
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Use the Byte App,0.44559065,3
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Open Up,0.44667366,4
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Open Windows 10 Settings,0.45104975,1
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Cite an App,0.46373093,2
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Install Apps,0.47801545,1
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Get Free Apps,0.48793688,0
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Download App Store Apps for Free,0.505363,1
+Computers and Electronics,Check if Microsoft Windows is Activated,Open the Settings app.,Use the Yo. App,0.525419,0
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Choose Bluetooth Headphones,0.71542215,4
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Add Bluetooth to a Car,0.7235041,4
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Use a Bluetooth Device,0.72990465,1
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Use a Bluetooth Dongle,0.73839843,4
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Turn on Bluetooth With Android,0.74034536,4
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Connect Beats to Bluetooth,0.74221224,4
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Install Bluetooth,0.75192547,1
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Set Up Bluetooth on an iPhone,0.76116836,1
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Turn on Bluetooth on Your Phone,0.8592371999999999,1
+Computers and Electronics,Turn On AirPlay,Turn on Bluetooth.,Set up Bluetooth,0.8597981,1
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Ask for Feedback,0.4936347,0
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Get Counselling,0.5074088999999999,3
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Ask for a Second Opinion,0.50820565,4
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Give People Advice,0.51480037,4
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Ask for a Recommendation Letter,0.5527283000000001,0
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Ask for Help,0.5763918,2
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Ask for a Reference,0.5829649,0
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Write a Letter Asking for Advice,0.6212321,3
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Ask for a Referral,0.62374115,0
+Education and Communications,Stop Thinking Too Much,Ask for advice.,Give Advice,0.64565104,4
+Education and Communications,Start Your Own Magazine,Create a business plan.,Create a Job Skills Development Plan,0.64255637,2
+Education and Communications,Start Your Own Magazine,Create a business plan.,Write a Trading Plan,0.64999354,3
+Education and Communications,Start Your Own Magazine,Create a business plan.,Form a Plan,0.65463716,0
+Education and Communications,Start Your Own Magazine,Create a business plan.,Write a Business Plan for a Small Business,0.65565574,1
+Education and Communications,Start Your Own Magazine,Create a business plan.,Plan Your Business,0.69045913,3
+Education and Communications,Start Your Own Magazine,Create a business plan.,Create an Agenda,0.7013491,0
+Education and Communications,Start Your Own Magazine,Create a business plan.,Write a Business Plan,0.7015875,1
+Education and Communications,Start Your Own Magazine,Create a business plan.,Create a Marketing Plan,0.7099666,4
+Education and Communications,Start Your Own Magazine,Create a business plan.,Write a Business Plan Using a Business Plan Template,0.71066165,3
+Education and Communications,Start Your Own Magazine,Create a business plan.,Create a Business Continuity Plan,0.73254174,3
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find Airline Jobs,0.6107489,4
+Education and Communications,Become a Chemistry Teacher,Find a job.,Job Search While You Have a Job,0.6273525,3
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find a Physician Job,0.6581093000000001,3
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find a Job Online,0.66034085,1
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find a Job Working from Home,0.6672,3
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find a Job Using an Employment Agency,0.6681090000000001,1
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find a Job in Accounting,0.6722336,3
+Education and Communications,Become a Chemistry Teacher,Find a job.,Get a Job,0.67821026,1
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find Fulfilling Work,0.68752825,1
+Education and Communications,Become a Chemistry Teacher,Find a job.,Find a Second Job,0.7268352,4
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Develop a Passion for Learning,0.45949385,1
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Have a Passion for Horses,0.4727817,3
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Help Your Husband Find His Passion,0.49815705,2
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Asks: What does it mean to discover your passion?,0.5044369000000001,2
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Be Passionate,0.5403005999999999,1
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Know if You've Discovered Your Passion,0.5502848000000001,1
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Live with Passion,0.5757072,3
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Develop Passion,0.60643244,2
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Turn Your Passion into Your Profession,0.6090187,2
+Education and Communications,Channel Your Inner Oprah,Follow your passion.,Pursue Your Passion,0.8971421,2
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Choose a Dictionary,0.5557920999999999,0
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Improve Verbal Memory,0.5628331999999999,4
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Use Better Word Choice in Stories,0.5791065,3
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Make Better Decisions,0.58152866,0
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Teach Vocabulary Words,0.586813,4
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Study Vocabulary Words,0.5898456,3
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Increase Your Child's Vocabulary,0.5957399,4
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Expand Your Vocabulary,0.60715955,1
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Improve Your Vocabulary for SSC Exams,0.6299241999999999,3
+Education and Communications,Avoid Colloquial (Informal) Writing,Improve your vocabulary to find better word choices.,Improve Your Grammar and Vocabulary,0.6503614000000001,1
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Learn,0.45485994,0
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Be a Grammar Maven,0.49313253,4
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Improve Your Grammar and Vocabulary,0.52090216,1
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Learn Traffic Rules,0.53760564,0
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Improve Your Grammar,0.553075,1
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Delete Grammarly,0.5590736999999999,0
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Learn Chinese Grammar Quickly,0.61505324,0
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Check Grammar,0.62527984,4
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Learn English Grammar,0.6822253,1
+Education and Communications,Be a Good Writer,Learn the rules of grammar.,Teach Grammar,0.758848,4
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Understand a Student's Body Language,0.57633054,4
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Flirt With Body Language,0.5834648,4
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Read Your Partner's Body Language,0.586913,4
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Make a Good Impression Through Body Language,0.59152323,1
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Appear Powerful with Body Language,0.60199654,1
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Understand Wolf Body Language,0.60473704,0
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Understand Your Bird's Body Language,0.6446869000000001,0
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Understand Your Dog's Body Language,0.65007496,0
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Read Body Language,0.67833257,4
+Education and Communications,Deliver Effective Presentations,Mind your body language.,Communicate With Body Language,0.68548733,1
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Color,0.58202547,4
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Choose Car Paint Colors,0.58317614,0
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Colorwash Your Walls,0.586746,4
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Get Ink or Dye Off a Painted Wall,0.59047264,4
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Paint,0.5920188,2
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Paint Walls With Stencils,0.60110414,3
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Paint a Wall,0.6058796999999999,1
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Paint Exterior Walls With a Paint Sprayer,0.6092448,4
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Match Paint Colors,0.62206227,4
+Education and Communications,Make a Homeschool Classroom,"Paint one or more walls with bright, happy colors if you can.",Make Paint Colors,0.63630474,2
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Bully Proof Yourself,0.45101320000000006,0
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Do Math Proofs,0.45314908,0
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Buy Proof Sets,0.46510100000000004,0
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Get Proof of Employment,0.47180474,0
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Read a Check,0.47316444,0
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Become an Online Proofreader,0.48190212,4
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Do Induction Proofs,0.48709142,0
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Copyedit and Proofread Written Work,0.56553894,1
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Become a Proofreader,0.59290504,4
+Education and Communications,Write an Expository Essay on an Animal,Proofread.,Proofread Your Own Work,0.66466373,1
+Education and Communications,Settle an Argument,Remain calm.,Relax,0.54455125,3
+Education and Communications,Settle an Argument,Remain calm.,Remain Calm While Being Ignored,0.5491615,1
+Education and Communications,Settle an Argument,Remain calm.,Stay Calm During a Test,0.55585265,2
+Education and Communications,Settle an Argument,Remain calm.,Calm Down,0.56146306,2
+Education and Communications,Settle an Argument,Remain calm.,Stay Calm Around an Ex,0.58617264,3
+Education and Communications,Settle an Argument,Remain calm.,Stay Calm Around That Boy,0.6051059,2
+Education and Communications,Settle an Argument,Remain calm.,Stay Calm in an Argument,0.6185328,3
+Education and Communications,Settle an Argument,Remain calm.,Stay Relaxed,0.6778633000000001,2
+Education and Communications,Settle an Argument,Remain calm.,Be Calm,0.7234701,2
+Education and Communications,Settle an Argument,Remain calm.,Keep Composure,0.78180915,3
+Education and Communications,Improve Your Grades,Take notes.,Organize Notes,0.6063170999999999,4
+Education and Communications,Improve Your Grades,Take notes.,Take Good College Notes,0.6243624,1
+Education and Communications,Improve Your Grades,Take notes.,Take Notes for Science,0.639833,3
+Education and Communications,Improve Your Grades,Take notes.,Take Notes at a Meeting,0.6603319999999999,3
+Education and Communications,Improve Your Grades,Take notes.,Take Lecture Notes,0.7048776999999999,3
+Education and Communications,Improve Your Grades,Take notes.,Take Notes on a Book,0.7097985,3
+Education and Communications,Improve Your Grades,Take notes.,Take Notes Quickly,0.715687,1
+Education and Communications,Improve Your Grades,Take notes.,Take Exam Notes,0.7182758,3
+Education and Communications,Improve Your Grades,Take notes.,Take Better Notes,0.74647117,1
+Education and Communications,Improve Your Grades,Take notes.,Take Notes,0.9308896999999999,1
+Education and Communications,Captain a Cricket Team,Work hard.,Make Work Feel Effortless,0.47463536,0
+Education and Communications,Captain a Cricket Team,Work hard.,Work Hard Without Any Expectations,0.47654840000000004,0
+Education and Communications,Captain a Cricket Team,Work hard.,Have an Easy Labor,0.47904372,0
+Education and Communications,Captain a Cricket Team,Work hard.,Stay Busy at Work,0.50082374,0
+Education and Communications,Captain a Cricket Team,Work hard.,Work Out,0.5139555,4
+Education and Communications,Captain a Cricket Team,Work hard.,Leave Work at Work,0.5312878000000001,0
+Education and Communications,Captain a Cricket Team,Work hard.,Be Tough,0.53556526,0
+Education and Communications,Captain a Cricket Team,Work hard.,Be a Hard Worker,0.5621803000000001,4
+Education and Communications,Captain a Cricket Team,Work hard.,"Work Smart, Not Hard",0.6109214,0
+Education and Communications,Captain a Cricket Team,Work hard.,Work With Difficult People,0.6157035,0
+Education and Communications,Write a Personal Bio,Write in the third person.,Make 3D Text With 3D Text,0.46730936,2
+Education and Communications,Write a Personal Bio,Write in the third person.,Pass the Third Grade,0.48101985,2
+Education and Communications,Write a Personal Bio,Write in the third person.,Refer to a Third Party in ASL,0.48545197,2
+Education and Communications,Write a Personal Bio,Write in the third person.,3 Way Call a Person,0.49622902,3
+Education and Communications,Write a Personal Bio,Write in the third person.,Write,0.4985156,3
+Education and Communications,Write a Personal Bio,Write in the third person.,Write a Speech if You're Third Speaker,0.5000688,2
+Education and Communications,Write a Personal Bio,Write in the third person.,Fold a Paper Into Thirds,0.51546395,2
+Education and Communications,Write a Personal Bio,Write in the third person.,Write in First Person,0.5795255,2
+Education and Communications,Write a Personal Bio,Write in the third person.,Write in Third Person Omniscient,0.7494503,2
+Education and Communications,Write a Personal Bio,Write in the third person.,Write in Third Person,0.9585246999999999,3
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write an Introduction for a Persuasive Speech,0.6004898,4
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write a Swalesian Introduction,0.61352193,1
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write a Portfolio Introduction,0.64971644,4
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write,0.65968525,4
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write a Speech Introducing Yourself,0.6809068,4
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write an Essay Introduction,0.6840947,1
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write an Introduction to a Book,0.7014754,4
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write a Research Introduction,0.7127825,1
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write an Introduction Paragraph,0.7437406999999999,1
+Education and Communications,Write a Good Economics Essay,Write the introduction.,Write Introductions,0.90547675,1
+Education and Communications,Write a Good College Essay,Write your introduction.,Write Your Own Performance Review,0.5706435999999999,0
+Education and Communications,Write a Good College Essay,Write your introduction.,Write an Introduction for a Persuasive Speech,0.57388836,1
+Education and Communications,Write a Good College Essay,Write your introduction.,Write a Portfolio Introduction,0.6146135,3
+Education and Communications,Write a Good College Essay,Write your introduction.,Write,0.6160259,0
+Education and Communications,Write a Good College Essay,Write your introduction.,Write an Essay Introduction,0.65100974,1
+Education and Communications,Write a Good College Essay,Write your introduction.,Write an Introduction to a Book,0.6536988,4
+Education and Communications,Write a Good College Essay,Write your introduction.,Write a Research Introduction,0.66807467,1
+Education and Communications,Write a Good College Essay,Write your introduction.,Write a Speech Introducing Yourself,0.6749959,4
+Education and Communications,Write a Good College Essay,Write your introduction.,Write an Introduction Paragraph,0.6954272,2
+Education and Communications,Write a Good College Essay,Write your introduction.,Write Introductions,0.841334,1
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Be a Romantic Girl,0.5447345,0
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Love Your Partner,0.54780966,4
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Get Your Husband to Be Romantic,0.5485579,4
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Become a Romantic Man,0.5511125,1
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Be Romantic to Your Wife,0.5757673000000001,3
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Talk to Your Partner About Rekindling a Romance,0.58887994,2
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Be Romantic,0.6206344,1
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Be Romantic with Your Husband,0.6214082,3
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Be Romantic with Your Girlfriend,0.66724074,3
+Family Life,Be a Great Husband,Be romantic with your partner on a regular basis.,Be Romantic with Your Boyfriend,0.6853564,3
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Prepare Healthy Meals for One Person,0.58480686,3
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Cook a Dish Quickly,0.5897548,4
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Make Healthy Baby Food,0.61161995,3
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Cook Healthily,0.6122065999999999,1
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Enjoy Healthy Meals when You Hate to Cook,0.61448467,3
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Make Healthy Grilled Food,0.6165285,3
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Make Healthy Breakfast Meals,0.61991817,3
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Cook Cheap Meals,0.6215357,4
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Prepare Healthy Meals on the Go,0.63309056,3
+Family Life,Be a Good Housewife,Cook (healthy) meals.,Cook Good Food,0.7219566,4
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Represent Yourself in Court (U.S.),0.22266278,3
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Maintain Aerobic Endurance,0.22690503,2
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,"Use ""i.e."" Versus ""e.g.""",0.22713237,2
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Send an S.A.S.E. (Self Addressed Stamped Envelope),0.22959536,4
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Be Mentally Resilient,0.23961946,3
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Have More Endurance,0.25685558,4
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,"Help Oppose Automatic, State Forced, Compulsory Unionism (U.S.A.)",0.26553473,1
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Be Persistent,0.41604388,4
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Persevere With a Disability,0.43076935,4
+Family Life,Find Time to Write when You're a Busy Mom,Persevere.,Persevere,0.86880445,1
+Finance and Business,Use Money for Happiness,Be content.,Be Happy Being Yourself,0.4484329000000001,2
+Finance and Business,Use Money for Happiness,Be content.,Do Content Marketing,0.45913306,2
+Finance and Business,Use Money for Happiness,Be content.,Remove Content Lock,0.46102577,4
+Finance and Business,Use Money for Happiness,Be content.,Be Satisfied With What You Have,0.47066706,1
+Finance and Business,Use Money for Happiness,Be content.,Write a Table of Contents,0.48894832,4
+Finance and Business,Use Money for Happiness,Be content.,Measure Alcohol Content,0.49529815,0
+Finance and Business,Use Money for Happiness,Be content.,Be Happy,0.5573523,4
+Finance and Business,Use Money for Happiness,Be content.,Become Content With What You Have,0.57573646,2
+Finance and Business,Use Money for Happiness,Be content.,Be Content With Your Life,0.5983028,3
+Finance and Business,Use Money for Happiness,Be content.,Stay Content,0.7076539000000001,2
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Polite in Italy,0.53701055,4
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Polite in Norway,0.53789985,4
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Gracious,0.5490204000000001,4
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Polite when Texting,0.5691662,3
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Bow Politely,0.5969414000000001,4
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Polite at a Dinner,0.6586826,3
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Respectful,0.68840766,4
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Suave,0.6969793000000001,4
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Polite on the Phone,0.7235262,1
+Finance and Business,Ask Telemarketers to Stop Calling,Be polite.,Be Polite,0.93078274,1
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Make Reindeer Crafts,0.39334935,2
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Be Self Employed,0.39353538,3
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Be Self Confident,0.3952483,4
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Deal with a Selfish Husband,0.61387265,2
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Practice Self Care Without Being Selfish,0.63626254,3
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Be Selfless,0.656917,3
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Know if You Are Being Selfish,0.7250291,2
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Stop Being Selfish,0.7780538,3
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Be Less Selfish,0.78781193,3
+Finance and Business,Keep a Life Changing Resolution,Be selfish.,Be Selfish,0.95159245,4
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Your Photography Skills,0.6226289,0
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Road Safety Skills,0.6272893,0
+Finance and Business,Work from Home Sewing,Develop skills.,Create a Job Skills Development Plan,0.63849735,0
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Good Communication Skills,0.6529478,4
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Money Management Skills,0.65919816,4
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Interpersonal Skills,0.67927885,0
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Organizational Skills,0.69872534,4
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Listening Skills,0.70437354,4
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Advanced Study Skills,0.7047986999999999,4
+Finance and Business,Work from Home Sewing,Develop skills.,Develop Psychic Abilities,0.72030556,0
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Get Your Life Back on Track,0.49024309999999993,2
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Asks: What does it mean to discover your passion?,0.4923001,1
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Find Meaning in Life,0.49359632,3
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Find a Path in Life,0.5001837,4
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Help Your Husband Find His Passion,0.5009397,3
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Find Balance in Your Life,0.5136029999999999,3
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Know if You've Discovered Your Passion,0.5227015,2
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Live with Passion,0.5634794,3
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Find Your Purpose in Life,0.5643678000000001,2
+Finance and Business,Be a Successful Business Woman,Find your passion in life and follow it.,Pursue Your Passion,0.67524475,2
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Be Successful in Your Career,0.44567117,4
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Develop in Your Career,0.47666678,3
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Put Gold in an IRA,0.4909438,3
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Determine Roth IRA Income Limits,0.5743642,2
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Withdraw Roth IRA Contributions,0.5851961999999999,3
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Roll From a Qualified 401K to a Roth IRA,0.5972854999999999,3
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Open a Roth IRA Account,0.60149616,4
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Make the Most from Roth IRA,0.64410615,4
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Convert IRA to Roth IRA,0.6506334,2
+Finance and Business,Start Investing,Invest in a Roth IRA as soon in your working career as possible.,Contribute to a Roth IRA,0.6626966999999999,4
+Finance and Business,Overcome Poverty,Learn to barter.,Learn a Language,0.46883708,2
+Finance and Business,Overcome Poverty,Learn to barter.,Learn Editing,0.47250223,2
+Finance and Business,Overcome Poverty,Learn to barter.,Learn to Love,0.47522148,1
+Finance and Business,Overcome Poverty,Learn to barter.,Learn to Accept Yourself,0.48472917,3
+Finance and Business,Overcome Poverty,Learn to barter.,Learn About Entrepreneurship,0.49111003,2
+Finance and Business,Overcome Poverty,Learn to barter.,Learn Business Accounting,0.49772072,2
+Finance and Business,Overcome Poverty,Learn to barter.,Learn Business Basics,0.49983358,3
+Finance and Business,Overcome Poverty,Learn to barter.,Learn to Fence,0.5086585,2
+Finance and Business,Overcome Poverty,Learn to barter.,Learn,0.6436194000000001,3
+Finance and Business,Overcome Poverty,Learn to barter.,Barter,0.70359755,3
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Prepare for a Run,0.53150374,0
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Prepare a Talk,0.5391266,4
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Set Up a Workout Plan,0.541914,0
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Prepare a Short Preparation Debate,0.5481344,4
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Prepare a Retirement Plan,0.56710374,0
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Make a Schedule,0.56807715,2
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Prepare a Financial Plan,0.5683788000000001,0
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Plan a Homework Schedule,0.58420134,4
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Create an Agenda,0.6486318,1
+Finance and Business,Conduct Effective Meetings,Prepare an agenda.,Prepare a Schedule C,0.6604566,0
+Finance and Business,Manage Family Finances,Save for retirement.,Adjust to Retirement,0.54621583,4
+Finance and Business,Manage Family Finances,Save for retirement.,Withdraw Retirement Funds,0.55025774,3
+Finance and Business,Manage Family Finances,Save for retirement.,Enjoy Retirement,0.5699045,0
+Finance and Business,Manage Family Finances,Save for retirement.,Retire Without Savings,0.5769880999999999,3
+Finance and Business,Manage Family Finances,Save for retirement.,Get a Pension,0.59435534,4
+Finance and Business,Manage Family Finances,Save for retirement.,Invest for Retirement,0.59643817,3
+Finance and Business,Manage Family Finances,Save for retirement.,Prepare for Retirement,0.62715995,3
+Finance and Business,Manage Family Finances,Save for retirement.,Save for Retirement Without a 401(K),0.67220485,4
+Finance and Business,Manage Family Finances,Save for retirement.,Save for Retirement As a Single Parent,0.6900033,4
+Finance and Business,Manage Family Finances,Save for retirement.,Save for Retirement,0.95968974,0
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Make a Lemonade Slushie,0.6323127,4
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Make Pink Lemonade,0.6346928000000001,4
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Make Soda,0.6442439999999999,2
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Make Frozen Lemonade,0.6465069999999999,3
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Make Rhubarb Lemonade,0.64763856,4
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Make Fizzy Lemonade,0.6944023,4
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Make Lemonade,0.7674127,1
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Sell Lots of Lemonade at a Lemonade Stand,0.77686524,1
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Open a Lemonade Stand,0.8123946999999999,4
+Finance and Business,Make Money Fast,Set up a lemonade stand.,Run a Lemonade Stand,0.8384039000000001,3
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Find Grocery Coupons Online,0.5553772,4
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Make Mother's Day Coupons,0.5586069,2
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Use a Car Rental Coupon,0.58324903,0
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Organize Coupons,0.65639526,4
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Find Grocery Coupons,0.6678584,0
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Save on Groceries Using Coupons,0.68424404,4
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Look For Coupons,0.704079,4
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Get Coupons,0.7962634,2
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Use Coupons Effectively,0.8080305,2
+Finance and Business,Decide if Something Is a Good Buy,Use coupons.,Use Coupons,0.9605781999999999,4
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Roast Spaghetti Squash,0.38080174,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Soak Clothes,0.39153284,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Get Rid of Threadworms,0.39520344,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Make Spaghetti Squash,0.39862424,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Cut Spaghetti Squash,0.40977323,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Thread Pipe,0.4255718,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Choose Threads for Tatting,0.42606747,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Get Over a Crush,0.43156700000000003,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Measure Pipe Threads,0.44082619999999995,0
+Food and Entertaining,Use Saffron,Crush and soak the threads.,Do Threading,0.48603549999999995,0
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Chop Chocolate,0.5864096999999999,4
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make Chocolate Sauce,0.5867028000000001,3
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make Chocolate Granola,0.5873102,1
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make Chocolate Fudge,0.59985507,3
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make a Fruit Cake (with Chocolate Biscuits),0.6015016,2
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make Chocolate Dip for Cookies,0.6169493,1
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make Chocolate,0.61740094,3
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Dip Oreos in Chocolate,0.6308189999999999,4
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make Chocolate Fruit Fingers,0.7280184000000001,3
+Food and Entertaining,Garnish Food,Dip fruit in chocolate.,Make Chocolate Covered Fruit,0.7787162,2
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fill Out a Deposit Slip,0.46671480000000004,1
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Make Dumpling Wrappers,0.47683856,4
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Make Spring Roll Wrappers,0.4929007,3
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fold Sheets,0.4961447,4
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fill a Punching Bag,0.49691769999999996,4
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fold and Insert a Letter Into an Envelope,0.50167084,4
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fold a Blanket,0.5070692,1
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fold a Paper Box,0.51683843,0
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fold a Pack and Play,0.59675634,0
+Food and Entertaining,Boil Dumplings,Fill and fold the wrappers.,Fold a Wrap,0.63223994,0
+Food and Entertaining,Use Saffron,Get what you pay for.,Avoid Paying for Things You Can Get for Free,0.46775883,3
+Food and Entertaining,Use Saffron,Get what you pay for.,Find What You Love to Do and Get Paid for Doing It,0.47171494,4
+Food and Entertaining,Use Saffron,Get what you pay for.,Buy a Pay As You Go Phone Service for Cheap,0.48405328,3
+Food and Entertaining,Use Saffron,Get what you pay for.,Get Unpaid Wages,0.49461335,3
+Food and Entertaining,Use Saffron,Get what you pay for.,Determine What Salary to Ask for,0.49591738,4
+Food and Entertaining,Use Saffron,Get what you pay for.,Pay Alipay,0.49724090000000004,3
+Food and Entertaining,Use Saffron,Get what you pay for.,Pay with PayPal,0.5041313000000001,3
+Food and Entertaining,Use Saffron,Get what you pay for.,Get Paid for Your Opinion,0.50637364,3
+Food and Entertaining,Use Saffron,Get what you pay for.,Get What You Want,0.51627254,4
+Food and Entertaining,Use Saffron,Get what you pay for.,Get Paid Through PayPal,0.5374569,2
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Roast Vegetables,0.47813806,3
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Smoke or Barbecue Meat Using a Weber Grill,0.48596769999999995,3
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Grill Pork Tenderloin,0.48772135,2
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Make a Meat and Vegetable Fried Rice,0.4887439,3
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Smoke Meat,0.49354953,3
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Grill Thick Steak,0.5004202999999999,2
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Have a Vegetarian Barbecue,0.50735503,2
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Make Veggies Taste Good,0.53429174,3
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Grill Vegetables,0.5428153,2
+Food and Entertaining,Use Healthy Cooking Methods,Grill your meats and veggies for a nice smoky flavor and less fat.,Grill Meat,0.58193296,2
+Food and Entertaining,Garnish Food,Make an apple swan.,Make Apple Crumble,0.54615694,4
+Food and Entertaining,Garnish Food,Make an apple swan.,Do Black Swan Makeup,0.5510234,3
+Food and Entertaining,Garnish Food,Make an apple swan.,Make an Apple Pipe,0.55405974,3
+Food and Entertaining,Garnish Food,Make an apple swan.,Make Applesauce,0.55800354,3
+Food and Entertaining,Garnish Food,Make an apple swan.,Create an Apple Doll,0.56792426,0
+Food and Entertaining,Garnish Food,Make an apple swan.,Make Apple Pulp,0.5732523,3
+Food and Entertaining,Garnish Food,Make an apple swan.,Make a Baked Apple,0.57558143,3
+Food and Entertaining,Garnish Food,Make an apple swan.,Make Apple Pie in an Apple,0.59671974,0
+Food and Entertaining,Garnish Food,Make an apple swan.,Make a Paper Swan,0.62090945,1
+Food and Entertaining,Garnish Food,Make an apple swan.,Make an Apple Swan,0.97111046,3
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Design and Print Surprise Party Invitations,0.48919743,3
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Make Baby Shower Invitations,0.50134146,4
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Make Cute Tea Party Invitations,0.5031179,3
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Send Wedding Invitations,0.50380313,3
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Make Spa Party Invitations,0.51243323,2
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Make Wedding Invitations,0.5332196,2
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Make Invitations for a Sleepover,0.53953063,4
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Make Cute Invitations,0.56111634,4
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Make Invitations,0.6293744000000001,2
+Food and Entertaining,Plan a Picnic,Make and distribute formal invitations for a bit of fun.,Write a Formal Invitation,0.65140426,3
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Cook a Roast in the Oven,0.30970679999999995,3
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Light a Furnace,0.31062794,2
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Cook in a Microwave Oven,0.31072924,2
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Oven Cook Sausages,0.31075266,1
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Grill in Your Oven,0.314416,3
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Cook Beef in the Oven,0.32124162,1
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Reset a Furnace,0.32319492,1
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Heat Silly Putty,0.3247131,1
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Fix Your Oven,0.35229015,1
+Food and Entertaining,Make Green Chocolate Chip Cookies,Preheat your oven to 375ºF (190ºC).,Preheat an Oven,0.54166824,1
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Wrap Flowers,0.5142302,3
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Plant Flowers,0.5215456,3
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Find Wild Edible Plants,0.5502884,2
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Plant Sugar Cane,0.5573596,2
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Decorate Baked Goods with Edible Flowers,0.5730046999999999,3
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Dress Up a Salad with Edible Flowers,0.5824635,4
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Make an Edible Bouquet,0.62705016,2
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Dry Edible Flowers,0.6598391,3
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Choose Edible Flowers,0.6654408,3
+Food and Entertaining,Garnish Food,Sugar coat edible flowers.,Sugar Flowers,0.6910917,3
+Health,Get Through Life,Ask for help when you need it.,Help Dogs in Need,0.43600976,0
+Health,Get Through Life,Ask for help when you need it.,Request Help to Get Home Late at Night when You're Scared,0.44086844,0
+Health,Get Through Life,Ask for help when you need it.,Ask for a Favor,0.45910270000000003,1
+Health,Get Through Life,Ask for help when you need it.,Ask for Help from Strangers,0.47831285,3
+Health,Get Through Life,Ask for help when you need it.,Ask Loved Ones for Help when You Live Alone,0.5020265,3
+Health,Get Through Life,Ask for help when you need it.,Help the People in Need,0.50788075,0
+Health,Get Through Life,Ask for help when you need it.,Ask for What You Want,0.51086843,4
+Health,Get Through Life,Ask for help when you need it.,Ask Your Ex for Help,0.52448314,4
+Health,Get Through Life,Ask for help when you need it.,Ask a Teacher for Help,0.5330688,3
+Health,Get Through Life,Ask for help when you need it.,Ask for Help,0.7162519,1
+Health,Overcome Depression,Be more generous.,Be More Perceptive,0.40701437,4
+Health,Overcome Depression,Be more generous.,Be More Enthusiastic,0.41467650000000006,4
+Health,Overcome Depression,Be more generous.,Be More Loving,0.42563757,3
+Health,Overcome Depression,Be more generous.,Be Generous on a Limited Budget,0.43523335,3
+Health,Overcome Depression,Be more generous.,Be More Appreciative,0.44468576,4
+Health,Overcome Depression,Be more generous.,Be More Likeable,0.4924914000000001,4
+Health,Overcome Depression,Be more generous.,Be More Thoughtful,0.5099271,4
+Health,Overcome Depression,Be more generous.,Be More Affectionate,0.5250265000000001,4
+Health,Overcome Depression,Be more generous.,Be Gracious,0.56054354,4
+Health,Overcome Depression,Be more generous.,Be Generous,0.80743045,1
+Health,Be Healthy,Be productive.,Be More Productive at the Gym,0.61229765,2
+Health,Be Healthy,Be productive.,Make Meetings More Productive,0.6139071,3
+Health,Be Healthy,Be productive.,Have a Productive Workweek,0.6159209,3
+Health,Be Healthy,Be productive.,Use Anger Productively,0.6420722,2
+Health,Be Healthy,Be productive.,Use Your Time Productively,0.67619157,3
+Health,Be Healthy,Be productive.,Be Productive After School,0.68422824,1
+Health,Be Healthy,Be productive.,Have a Productive Day,0.70961463,2
+Health,Be Healthy,Be productive.,Be Productive at Work,0.8015013000000001,3
+Health,Be Healthy,Be productive.,Be More Productive,0.82381725,3
+Health,Be Healthy,Be productive.,Be Productive,0.94315624,2
+Health,Have Courage,Build confidence.,Build Confidence by Facing Your Fears,0.65269053,3
+Health,Have Courage,Build confidence.,Develop Self‐Esteem,0.6552100000000001,2
+Health,Have Courage,Build confidence.,Regain Confidence,0.66293037,3
+Health,Have Courage,Build confidence.,Create Absolute Confidence,0.6792073000000001,1
+Health,Have Courage,Build confidence.,Exude Confidence,0.6822776999999999,3
+Health,Have Courage,Build confidence.,Build Self Confidence in the Elderly,0.6945791,3
+Health,Have Courage,Build confidence.,Gain Confidence,0.7079395,1
+Health,Have Courage,Build confidence.,Build Children's Confidence,0.7486471,3
+Health,Have Courage,Build confidence.,Build Trust,0.8389861999999999,0
+Health,Have Courage,Build confidence.,Build Self Confidence,0.88404816,1
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Add Healthy Fat to Your Diet,0.6347640999999999,3
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Nourish Your Skin Through Diet,0.6349902,3
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Help Your Body Absorb Nutrients,0.63936913,1
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Plan a Healthy Diet,0.6431769,2
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Eat Healthy,0.65112674,1
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Ease Into a Healthy Diet,0.6601854,1
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Stay Healthy on a Raw Food Diet,0.67127895,3
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Start a Healthy Diet,0.6750883000000001,1
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Eat Healthy Without Dieting,0.6980043,1
+Health,Grow Taller,"Eat a healthy, nutritious diet to help your body grow.",Eat a Healthy Heart Diet,0.7316463000000001,3
+Health,Stay Grounded,Eat mindfully.,Eat Granola,0.47748107,4
+Health,Stay Grounded,Eat mindfully.,Eat Heartsease,0.48010653,4
+Health,Stay Grounded,Eat mindfully.,Eat Slowly,0.48445177,1
+Health,Stay Grounded,Eat mindfully.,Eat Free,0.4910637,4
+Health,Stay Grounded,Eat mindfully.,Eat Grits,0.49431205,4
+Health,Stay Grounded,Eat mindfully.,Eat More Food,0.5263335,4
+Health,Stay Grounded,Eat mindfully.,Eat Spicy Food,0.5395531,4
+Health,Stay Grounded,Eat mindfully.,Eat Properly,0.5480899,1
+Health,Stay Grounded,Eat mindfully.,Eat Meditatively,0.56254816,1
+Health,Stay Grounded,Eat mindfully.,Eat Mannerly,0.60249346,4
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Relieve Stress,0.5440114,1
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce Financial Stress,0.56046975,3
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce the Stress of Your Commute,0.57582897,3
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce Stress in Cats,0.5797496,4
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce Stress in Children,0.5948545999999999,3
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce Stress in the Workplace,0.6076307,3
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce and Cope With Stress,0.60836446,1
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce Office Stress,0.6263314999999999,3
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce Stress Through Exercise,0.63570595,1
+Health,Diagnose Mitochondrial Disease,Engage in stress reduction activities.,Reduce Stress,0.7293566,1
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive for Your Own Mental Health,0.53916955,2
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive a Cheater,0.5580795000000001,4
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive Without Forgetting,0.5597365,2
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive Yourself After Hurting Someone,0.5751885,3
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive and Move On,0.59424776,2
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive Someone Who Hasn't Forgiven You,0.61101973,4
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive Someone,0.64073104,4
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive and Forget,0.6573926,2
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive,0.8010221,2
+Health,Stop Feeling Guilty for No Reason,Forgive yourself.,Forgive Yourself,0.9374385000000001,1
+Health,Overcome Mental Blocks,Get feedback.,Ask Customers for Feedback,0.5636616,3
+Health,Overcome Mental Blocks,Get feedback.,Give Your Employees Feedback,0.56634235,4
+Health,Overcome Mental Blocks,Get feedback.,Give Feedback to Your Manager,0.57586384,4
+Health,Overcome Mental Blocks,Get feedback.,Give a Feedback Sandwich,0.6013939,4
+Health,Overcome Mental Blocks,Get feedback.,Give Negative Feedback,0.6280231,4
+Health,Overcome Mental Blocks,Get feedback.,Give Design Feedback,0.6840786,4
+Health,Overcome Mental Blocks,Get feedback.,Be Receptive to Feedback,0.6855379,3
+Health,Overcome Mental Blocks,Get feedback.,Ask for Feedback,0.7068393,1
+Health,Overcome Mental Blocks,Get feedback.,Write Feedback,0.71864915,4
+Health,Overcome Mental Blocks,Get feedback.,Give Feedback,0.8108052,4
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep a Notebook,0.63400835,2
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep a Dream Journal,0.6403358,1
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep a Secret Diary,0.64987,1
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Maintain a Diet Journal for Life,0.65895534,1
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep an Idea Journal,0.66351616,1
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep a Diary and Stick to It,0.6707878,1
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep a Book Journal,0.70090777,2
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep an Allergy Food Diary,0.7160837,3
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep a Journal,0.7670759,1
+Health,Follow a 1500 Calorie Diet,Keep a food diary.,Keep a Food Diary,0.9664279,1
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Flirt With Body Language,0.44982344,0
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Appear Powerful with Body Language,0.4510615,1
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Understand Wolf Body Language,0.4523034000000001,1
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Keep Your Body Fit and Strong,0.46192044,1
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Keep Your Skin Soft and Smooth With Honey,0.46438068,0
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Make a Good Impression Through Body Language,0.47386304,1
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Understand Your Dog's Body Language,0.48513,1
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Understand Your Bird's Body Language,0.48711443,1
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Communicate With Body Language,0.509893,3
+Health,Become a Quiet Person,Keep your body language approachable and gentle.,Read Body Language,0.5137392,3
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Take Care of Your Eyes,0.41320783,3
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.","Prevent Hand, Foot, and Mouth Disease",0.4154871,0
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Hang a Spoon from Your Nose,0.4215816,3
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Get Rid of a Long‐Term Nose or Mouth Twitch,0.42158818,0
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Get Fish Smell off Your Hands,0.42563522,1
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Take Care of Your Hands,0.42803746,2
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Get Rid of Spectacle Marks on Your Nose,0.42968947,1
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Wiggle Your Nose,0.47456795,2
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Blow Your Nose,0.48276317,2
+Health,Prevent Coronavirus | wikiHow’s tips for staying healthy and avoiding getting sick,"Keep your hands away from your eyes, nose, and mouth.",Wipe Your Nose on Your Hands,0.58195335,2
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Receive Love,0.568571,4
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Have More Self Confidence and Love Yourself,0.5696739000000001,1
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Fall in Love and Stay in Love,0.5721925,0
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Love and Accept Yourself,0.6489335999999999,1
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Make Yourself Love Someone,0.64934516,0
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Learn to Love Yourself,0.6545354999999999,1
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Like Yourself,0.68575025,1
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Love Yourself Being Single,0.728018,3
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Love,0.73490393,4
+Health,Avoid Developing an Inferiority Complex,Love yourself.,Love Yourself,0.91862917,1
+Health,Be Determined,Make healthy choices.,Make Healthier Choices at the Grocery Store,0.6036878000000001,3
+Health,Be Determined,Make healthy choices.,Choose a Healthy Kitten,0.61633384,0
+Health,Be Determined,Make healthy choices.,Choose a Healthy Bird,0.6208316999999999,0
+Health,Be Determined,Make healthy choices.,Be Healthy,0.62990856,1
+Health,Be Determined,Make healthy choices.,Choose a Healthy Puppy,0.63122064,0
+Health,Be Determined,Make healthy choices.,Choose Healthy No‐Cook Breakfast Options,0.63925093,3
+Health,Be Determined,Make healthy choices.,Make a Good Decision in Health Care,0.65542585,4
+Health,Be Determined,Make healthy choices.,Choose Healthy Juices,0.6662331,3
+Health,Be Determined,Make healthy choices.,Choose Healthy Snacks,0.68244874,3
+Health,Be Determined,Make healthy choices.,Choose Healthy Kid's Meal Options,0.7049809,4
+Health,Cheer Someone Up,Make them laugh.,Fake Laugh,0.57407916,4
+Health,Cheer Someone Up,Make them laugh.,Make Your Crush Laugh,0.58868784,3
+Health,Cheer Someone Up,Make them laugh.,Make Your Friends Laugh,0.60179406,1
+Health,Cheer Someone Up,Make them laugh.,Make a Friend Laugh,0.6180701,1
+Health,Cheer Someone Up,Make them laugh.,Make a Girl Laugh,0.6343059,3
+Health,Cheer Someone Up,Make them laugh.,Make a Baby Laugh,0.6466451,3
+Health,Cheer Someone Up,Make them laugh.,Make Someone Laugh,0.66199803,1
+Health,Cheer Someone Up,Make them laugh.,Make a Guy Laugh,0.66928977,3
+Health,Cheer Someone Up,Make them laugh.,Make Yourself Laugh,0.72541785,4
+Health,Cheer Someone Up,Make them laugh.,Laugh,0.7551164,4
+Health,Choose a Right Place for Meditation,Start meditating.,Do Mindful Meditation,0.6497929,2
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate and Calm Down,0.6499893,2
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate on Consciousness,0.6514151999999999,4
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate on Breath,0.65660596,0
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate for Beginners,0.65934706,1
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate on Love,0.6936302,4
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate Deeply,0.7109121,2
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate at Work,0.71186763,4
+Health,Choose a Right Place for Meditation,Start meditating.,Meditate,0.8162842,1
+Health,Choose a Right Place for Meditation,Start meditating.,Start Meditating,0.9644210999999999,1
+Health,Wait for a Heart Transplant,Stay relaxed.,Stay Calm Around That Boy,0.49609208,3
+Health,Wait for a Heart Transplant,Stay relaxed.,Stand at Ease,0.49621993,0
+Health,Wait for a Heart Transplant,Stay relaxed.,Stay Calm in an Argument,0.49668019999999996,3
+Health,Wait for a Heart Transplant,Stay relaxed.,Keep Composure,0.5447549,1
+Health,Wait for a Heart Transplant,Stay relaxed.,Loosen Up,0.57840866,3
+Health,Wait for a Heart Transplant,Stay relaxed.,Stay Relaxed in Times of Stress,0.5906483,1
+Health,Wait for a Heart Transplant,Stay relaxed.,Feel Calm and Relaxed,0.5942321999999999,1
+Health,Wait for a Heart Transplant,Stay relaxed.,Relax,0.61172444,1
+Health,Wait for a Heart Transplant,Stay relaxed.,Feel Relaxed,0.62425876,1
+Health,Wait for a Heart Transplant,Stay relaxed.,Stay Relaxed,0.94029754,1
+Health,Feel Happy During a Cold Winter,Stay warm.,Keep Your Feet Warm,0.60235476,3
+Health,Feel Happy During a Cold Winter,Stay warm.,Stay Warm at Home Without a Heater,0.6203383000000001,3
+Health,Feel Happy During a Cold Winter,Stay warm.,Stay Warm in Cold Water,0.63573647,3
+Health,Feel Happy During a Cold Winter,Stay warm.,Keep Warm in Bed,0.638567,3
+Health,Feel Happy During a Cold Winter,Stay warm.,Stay Warm in Cold Weather,0.6450295,1
+Health,Feel Happy During a Cold Winter,Stay warm.,Stay Warm Using Your Mind,0.6520299,2
+Health,Feel Happy During a Cold Winter,Stay warm.,Stay Cool in Warm Weather,0.6615267,0
+Health,Feel Happy During a Cold Winter,Stay warm.,Warm Up,0.68386,2
+Health,Feel Happy During a Cold Winter,Stay warm.,Stay Warm at Work,0.76006776,3
+Health,Feel Happy During a Cold Winter,Stay warm.,Keep Warm,0.7904946999999999,2
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Have Great Teeth,0.5803100999999999,1
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Care for Your Dentures,0.6066619000000001,4
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Draw Teeth,0.6087165,0
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Bleach Your Teeth,0.6096858,4
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Care for Sensitive Teeth,0.6327375,3
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Make Your Teeth Straight,0.66719866,3
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Clean Your Teeth After Wisdom Teeth Removal,0.67050314,3
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Care for Your Baby's Teeth,0.6948566999999999,3
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Take Care of Your Loose Teeth,0.8411374,3
+Health,Develop Habits to Ward Off Strokes,Take care of your teeth.,Care for Your Teeth,0.84460306,1
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Prove an Emotional Distress Claim,0.42114028,1
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Help Your Toddler Express Their Feelings,0.43516767,3
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Express Your Feelings to the One You Love,0.44538847,1
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Express Sympathy,0.45101145,3
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Validate Someone's Feelings,0.45120950000000004,1
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Quarantine Yourself,0.46230468,1
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Express Your Feelings in Writing,0.47655144,1
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Express Hurt Feelings in Words,0.4898549,3
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Express True Feelings when Shy,0.5150509,1
+Health,Help an Autistic Family Member Cope with Home Quarantine,Validate their feelings when they express unhappiness about quarantine.,Express Your Feelings,0.5312816,1
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Remove Self Tanning Lotion Stains from Clothes,0.44115385,0
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Make Organic Sunscreen,0.44797159999999997,3
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Choose Sunscreen for Children,0.45388874,0
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Eliminate Sunscreen and Not Burn,0.4678424,2
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Choose a Natural Sunscreen,0.47255772,2
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Know if Sunscreen Has Expired,0.49754748,0
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Use Sunscreen With Makeup,0.5014935,0
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Remove Sunscreen Stains,0.5294666,0
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Make Sunscreen,0.5797747,3
+Health,Examine a Mole,Wear sunscreen whenever you go outside.,Apply Sunscreen,0.6051605,1
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Install Hygienic Wall Cladding,0.5914319,0
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Have Good Sleep Hygiene,0.5979446999999999,2
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Be Hygienic Using Public Swimming Pools,0.60429317,0
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Maintain Feminine Hygiene,0.60479075,3
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Have Good Hygiene (Girls),0.6152069,3
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Have Good Hygiene (Boys),0.62826186,3
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Maintain Good Hygiene,0.6325729999999999,1
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Be a Hygienic Teenage Girl,0.68321526,3
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Be a Hygienic Girl at School,0.6952566,3
+Hobbies and Crafts,Become a More Focused Gamer,Be hygienic.,Be Hygienic,0.963899,1
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Play Capture the Flag,0.55485237,0
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Fold a Flag Into a Triangle,0.55758756,1
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Display the U.S. Flag,0.5630038,4
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Design a Flag,0.5793345999999999,0
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Draw a Checkered Flag,0.5829310000000001,0
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Display a Flag,0.60573965,4
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Drop Spin a Flag,0.63166714,0
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Fold an American Flag,0.6401213000000001,1
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Make a Flag,0.6879258,4
+Hobbies and Crafts,Dispose of a Damaged American Flag,Fold the flag properly.,Fold a Flag,0.84296983,1
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write an Outline for a Story,0.53204954,3
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write a Review,0.5321981,3
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write a Debate Outline,0.5339333,3
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write an Annotated Outline,0.53394735,3
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write a Speech Outline,0.5436479000000001,3
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Critique Creative Writing,0.5845965999999999,2
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write a Criticizing Letter,0.5856053000000001,2
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write a Photography Critique,0.5856806999999999,2
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write an Outline,0.6298516,0
+Hobbies and Crafts,Write a Photography Critique,Outline your critique before you write it.,Write a Critique,0.7342941999999999,3
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Make a Dough Basket,0.5555526999999999,0
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Use Leftover Dough or Batter,0.55974865,4
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Make Fried Dough,0.57936895,0
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Knead Dough,0.58214533,3
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Store Dough,0.5857724,4
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Make Cookie Dough Dip,0.59375775,4
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Make Cookie Dough,0.6038696,0
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Make Rolls from Frozen Bread Dough,0.6195718000000001,0
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Make Play Dough,0.632313,0
+Hobbies and Crafts,Make Owl Cookies,Roll out the dough.,Roll Out Dough,0.93741393,1
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Fill Cracks in Wood,0.49244255,1
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Apply Glaze to Wood Furniture,0.49262658,0
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Wet Sand Wood,0.49584818,4
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Clean Old Wooden Furniture,0.5056398,2
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Remove Mold from Wood Furniture,0.5170170999999999,1
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Stain Wooden Furniture,0.5422142,0
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Polish Wood Furniture,0.562343,0
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Paint Furniture Without Sanding,0.5635525,1
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Distress Wood Furniture,0.56538707,4
+Hobbies and Crafts,Gold Leaf Furniture,Sand wood furniture if it has bumps or cracks to smooth it out.,Clean Wood Furniture,0.5922345,1
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand an ISBN Code,0.45325879999999996,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand the Book You Are Reading,0.47147888,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand Yourself,0.47497976,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand Politics,0.5074269,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Learn Traffic Rules,0.52755076,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand the Basic Rules of Cricket,0.5494085999999999,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand the Distance Selling Regulations,0.55236435,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Comprehend,0.58146584,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand the Rules of Broomball,0.5982957,0
+Hobbies and Crafts,Win at Backgammon,Understand the rules.,Understand,0.60066617,0
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Establish a Foundation,0.6450511999999999,0
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Foundation and Powder,0.65156245,2
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Mousse Foundation,0.655984,3
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply a Full Coverage Foundation,0.66806436,1
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Powder Foundation,0.6847383,1
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Cream Foundation,0.7096549,1
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Foundation Primer,0.72544086,1
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Stick Foundation,0.7566794,2
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Even Foundation,0.77778447,1
+Holidays and Traditions,Do a St. Patrick's Day Makeup Look,Apply your foundation.,Apply Foundation,0.87239766,2
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Teach Dance,0.5873176,2
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Learn to Tap Dance,0.5874606,2
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Learn Common Phrases in Irish,0.59814954,2
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Resin Irish Dance Shoes,0.6069713999999999,0
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Break in Hardshoes for Irish Step Dancing,0.61257565,0
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Become an Irish Dance Champion,0.63723254,0
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Have Correct Irish Dance Form,0.69548833,0
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Learn the Irish Language,0.70791316,0
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Dance an Irish Jig,0.78570384,2
+Holidays and Traditions,Celebrate St. Patrick's Day,Learn to Irish Dance.,Irish Dance,0.8595543999999999,3
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Take Fingerprints,0.5689313,4
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Make a Leaf Collage,0.5722395,3
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Make Your Own Canvas Prints,0.57570994,2
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Identify Prints,0.57734597,3
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Make Art Prints,0.58185214,1
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Print Tickets,0.60164106,4
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Make a Leaf Rubbing,0.62678635,0
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Make Flower Prints,0.63088405,2
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Make String Prints,0.63475174,2
+Holidays and Traditions,Have Fun in Fall,Make leaf prints.,Make Leaf Prints,0.9641732,4
+Home and Garden,Start Living Frugally,Cook at home.,Cook a Casserole,0.5504026,2
+Home and Garden,Start Living Frugally,Cook at home.,Prepare Home Cooked Food for Your Dog,0.5555091999999999,3
+Home and Garden,Start Living Frugally,Cook at home.,Cook Mince,0.5555966,2
+Home and Garden,Start Living Frugally,Cook at home.,Cook in an Indoor Fireplace,0.5568991999999999,2
+Home and Garden,Start Living Frugally,Cook at home.,Cook Perch,0.55732024,2
+Home and Garden,Start Living Frugally,Cook at home.,Cook a Roast,0.55896455,3
+Home and Garden,Start Living Frugally,Cook at home.,Make Homemade Food,0.5647485,2
+Home and Garden,Start Living Frugally,Cook at home.,Make Yourself at Home,0.6119859999999999,2
+Home and Garden,Start Living Frugally,Cook at home.,Cook,0.69515526,2
+Home and Garden,Start Living Frugally,Cook at home.,Treat Boils at Home,0.69653225,2
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself in an Extreme Street Fight,0.49620810000000004,1
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself from Bullies,0.5252229,3
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself in a Fight at School,0.5345849,3
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself in Court,0.54169536,0
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself if Someone Breaks into Your Home While You Are Alone,0.55224514,3
+Home and Garden,Survive a War,Defend yourself if you have to.,Prepare to Defend Yourself when You're Home Alone,0.5653726,3
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself if Caught from Behind,0.6107584,3
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself in a Fight,0.644629,1
+Home and Garden,Survive a War,Defend yourself if you have to.,Defend Yourself,0.7378063,2
+Home and Garden,Survive a War,Defend yourself if you have to.,Fight if You Need to Defend Yourself,0.8292417999999999,1
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Prevent Dust,0.41138676,2
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Clean Fiberglass Bathroom Surfaces,0.42353427,1
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Get Dust Out of the Air,0.42427608,3
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Clean Your Room,0.42596135,4
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Get Rid of Dust,0.43201858,3
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Reduce Dust in Your House,0.44218105,1
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Make Dusting Powder for Your Body,0.44587299999999996,0
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Dust Walls,0.45076627,3
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Clean Your Entire Room,0.45318645,0
+Home and Garden,Clean Your Room,Dust all of the surfaces in your room.,Dust Your Entire House,0.5432163000000001,3
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Find Garage Sales,0.45556393,4
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Insulate a Garage,0.45588896,4
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Clean Out Your Garage,0.46327147,4
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Finish Your Basement,0.4648165,4
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,De Clutter Your Garage,0.47043183,4
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Organize Your Garage,0.47641140000000004,4
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Create a Paint Booth in Your Garage,0.49328363,4
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Add Storage Space to Your Garage,0.51475674,0
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Find the Fuse Box or Circuit Breaker Box,0.5875295,2
+Home and Garden,Check Fuses,Look for the fuse box in your basement or garage.,Refinish a Garage or Basement Floor,0.62068635,4
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Organize Your Binder,0.5881268,0
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Organize Deep Closet Shelves,0.5884205,1
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Organize a Home Library,0.609067,3
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Organize a Classroom Library,0.617097,1
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Decorate a Bookshelf,0.6539425999999999,2
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Organize Your Music Library,0.6667900999999999,4
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Build a Bookshelf,0.67589843,1
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Organize Binders on a Shelf,0.6838320999999999,1
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Arrange Bookshelves,0.71565217,3
+Home and Garden,Deep Clean and Organize Your Room,Organize your bookshelf.,Organize a Bookshelf,0.8987658000000002,2
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Preserve Food,0.5019722,3
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Plan Weekly Meals,0.50898343,2
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Store Dog Food,0.51004475,3
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Buy Food,0.5379307,3
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Store Baby Food,0.5462445,2
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Stockpile Food,0.5507308000000001,1
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Store Food in Bulk,0.5964079000000001,1
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Meal Plan,0.620479,4
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Store Meal Prepped Food,0.62063193,0
+Home and Garden,Save Money as a Single Parent,Plan meals in advance so you know what you need from the grocery store.,Store Food,0.64896846,4
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Mist Coat with Paint,0.4385277,1
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Draw a Billiards Ball,0.44687688,4
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Get Paint off a Paint Brush,0.45460659999999997,1
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Splatter Paint,0.45522106,1
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Paint over Gloss Paint,0.45809034,2
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Paint on a Dress,0.45898277,2
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Paint,0.45950586,2
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Paint over Varnish,0.47663894,1
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Do a Good Base Coat Clear Coat Paint Job,0.50764763,1
+Home and Garden,Paint a Pool,"Roll on a coat of paint, starting from the pool’s deep end.",Paint a Pool,0.6218422,4
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Pin a Pattern,0.38286647,1
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Thread a Needle,0.39042038,4
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Knit a Zig Zag Blanket,0.40787578,2
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Backstitch Curves in Cross Stitch,0.40927258,2
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Do a Zigzag Stitch by Hand,0.41037637,4
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Sew a Knitting Needle Roll Up,0.41267294,0
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Make a Cross Stitch Pattern,0.44070414,1
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Zigzag Stitch,0.45566850000000003,4
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Knit a Zig Zag Pattern,0.52957064,2
+Home and Garden,Repair a Luggage Tear,Weave the needle back and forth through both torn edges in a zig-zag pattern.,Zigzag Edges,0.53859353,3
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Underline,0.4207907,2
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Make Natural Concealer and Highlighter,0.426928,2
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Make a Cheek Highlight,0.4362885,0
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Apply Nail Tips,0.44095972,1
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Get Highlighter Out of Clothes,0.45916182,4
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Use Eyeshadow As Highlighter,0.51226735,2
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Apply Purple Highlighter,0.6075967,1
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Use a Highlighter Stick,0.7014461999999999,1
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Apply Cream Highlighter,0.7275235,0
+Personal Care and Style,Apply Makeup,Apply a highlighter.,Apply Highlighter,0.9134468000000001,1
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Spell,0.28301507,0
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Be a Charming Girl,0.29035556,3
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Have an Attractive Personality,0.29352870000000003,1
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Draw Charmander,0.32193723,0
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Make Charms,0.3319821,0
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Be Glamorous,0.34252062,4
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Be Enchanting,0.38374275,1
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Be Charming,0.4064009,1
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Increase Charisma,0.5771645000000001,2
+Personal Care and Style,Improve Your Appearance,Be charismatic.,Be Charismatic,0.97072744,1
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Give Your Cat a Massage,0.45372877,0
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Massage Your Sinuses,0.46069276,4
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Paint Eyes,0.46180790000000005,0
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Draw Eyes,0.46235198,0
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Massage Yourself,0.47346179999999993,0
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Take Care of Your Eyes,0.51101583,2
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Relax Your Eyes,0.5149615,4
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Cross Your Eyes,0.52608216,0
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Exercise Your Eyes,0.5270433000000001,0
+Personal Care and Style,Break Bad Beauty Habits,Don't rub your eyes.,Roll Your Eyes,0.6059309,0
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Clean Your Eyebrows,0.6331665,1
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Extend Your Eyebrows,0.63808626,2
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Determine Your Face Shape,0.63814723,2
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Figure out Your Face Shape,0.6384481,2
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Cover Your Eyebrows,0.66861176,2
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Draw on Your Eyebrows,0.67516214,1
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Shape Your Eyebrows with a Razor,0.6835168,4
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Do Your Eyebrows,0.70489454,3
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Shape Your Eyebrows Without Plucking,0.718047,1
+Personal Care and Style,Enhance Your Beauty and Looks,Shape your eyebrows to frame your face.,Shape Eyebrows,0.75456405,1
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Take Care of Natural Hair,0.636941,3
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Take Care of Damaged Hair,0.63937026,0
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Wrap Your Hair,0.64235604,1
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Part Your Hair,0.64252484,4
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Straighten Your Hair,0.65047824,2
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Perm Your Hair,0.65919244,1
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Adapt Your Hair Care,0.6826541,1
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Cope With Your Hair,0.7302489000000001,2
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Look After Your Hair,0.7875353,4
+Personal Care and Style,Be Hot Even If You Wear Glasses,Take care of your hair.,Take Care of Your Hair,0.9422685,3
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Do a Bleach Wash on Your Hair,0.5081939,3
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Shave With Conditioner,0.5155525,4
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Determine the Perfect Shampoo and Conditioner,0.5216854000000001,3
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Clean the Filter on Your Air Conditioner,0.5230338999999999,4
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Clean Your Scalp,0.52876693,3
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Wash Your Hair Without Shampoo,0.5328308,3
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Wash Clothes with Shampoo,0.5353198,2
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Choose Shampoo and Conditioner for Your Cat,0.5442411,0
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Apply Conditioner to Your Hair,0.54484344,0
+Personal Care and Style,Follow the Curly Girl Method for Curly Hair,Wash your scalp with conditioner (conditioner washing).,Clean an Air Conditioner,0.55043304,2
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Get Wax Off Skin,0.46479052,4
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Get Wax out of Hair,0.46542126,4
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Wax With Honey,0.47553140000000005,1
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Wax a Floor,0.48011488,0
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Make Wax Hands,0.507896,0
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Wax Your Eyebrows at Home,0.528133,1
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Make Wax,0.54346085,4
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Make Hair Removal Wax at Home,0.5672889,1
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Wax,0.57557905,1
+Personal Care and Style,Choose Between Expert and Diy Beauty Treatments,Wax easy to reach areas at home.,Wax Your Bikini Area at Home,0.5846634,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Whiten Your Teeth Without Spending a Lot of Money,0.68252826,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Whiten Your Teeth with Banana Peel,0.6876837,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Make Teeth Whitener,0.7030611,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,"Have Clean, White Teeth",0.716138,2
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Bleach Your Teeth,0.7417808000000001,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Whiten Your Teeth when You Have Braces,0.7509435999999999,3
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Whiten Teeth in an Hour,0.76463354,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Whiten Teeth Naturally,0.7680305000000001,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Whiten Your Teeth Fast,0.85134554,1
+Personal Care and Style,Have a Great Smile,Whiten your teeth.,Whiten Teeth,0.91200006,1
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Check Dog Food Recalls,0.5338949000000001,3
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Prepare Home Cooked Food for Your Dog,0.53479034,3
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Make Your Own Dog Food,0.53984576,2
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Change Dog Food,0.5458293000000001,3
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Prepare for Your Dog's Annual Vet Exam,0.54942125,1
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Take Your Cat to the Vet,0.5601235999999999,1
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Keep Your Dog and Other Dogs Safe at the Vet,0.5640703,3
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Save Money on Vet Care for Your Dog,0.57240736,4
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Make Homemade Dog Food,0.60041165,4
+Pets and Animals,Make Your Own Dog Food,Check with your vet before switching to homemade dog food.,Prepare Your Dog for the Vet,0.64763016,3
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Up for Shopping,0.5824964,4
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save up for a Car,0.5900145,3
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Water,0.5908365,0
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save a File,0.5909052,0
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Money,0.5937796999999999,1
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Paper,0.5957413,0
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Money with SavedPlus,0.5977818,3
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Up for a House,0.6136265000000001,3
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Time,0.67961884,0
+Pets and Animals,Convince Your Parents to Get You a Hamster,Save up.,Save Yourself,0.71110404,0
+Pets and Animals,Become a Dog Breeder,Set up a website.,Plan a Website,0.6940479,2
+Pets and Animals,Become a Dog Breeder,Set up a website.,Promote a Website,0.7016783000000001,1
+Pets and Animals,Become a Dog Breeder,Set up a website.,Design a Website,0.70774317,2
+Pets and Animals,Become a Dog Breeder,Set up a website.,Upload a Website,0.71521735,2
+Pets and Animals,Become a Dog Breeder,Set up a website.,Create a Splash Page for a Website,0.72388136,4
+Pets and Animals,Become a Dog Breeder,Set up a website.,Acquire a Website,0.7296115,3
+Pets and Animals,Become a Dog Breeder,Set up a website.,Make a Website on Webs.Com,0.7466136,2
+Pets and Animals,Become a Dog Breeder,Set up a website.,Launch a Website,0.75341916,3
+Pets and Animals,Become a Dog Breeder,Set up a website.,Manage a Website,0.7753349,2
+Pets and Animals,Become a Dog Breeder,Set up a website.,Make a Website,0.8034904,3
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Considerate,0.36803326,1
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Show Generosity During Hanukkah,0.37055916,3
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be an Abundant Thinker,0.37177685,4
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Nice,0.38388416,3
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Polite,0.3896113,2
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Great,0.39955485,2
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Kind,0.42595154,2
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Generous on a Limited Budget,0.48555267,0
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Gracious,0.6549438,1
+Philosophy and Religion,Be a Happy Person Without Religion,Be generous.,Be Generous,0.92704177,1
+Philosophy and Religion,Be a Mystic,Be present.,Have Presence,0.49702929999999995,1
+Philosophy and Religion,Be a Mystic,Be present.,Wrap a Present,0.51060414,2
+Philosophy and Religion,Be a Mystic,Be present.,Understand the Present,0.515782,1
+Philosophy and Religion,Be a Mystic,Be present.,Present an Award,0.52057856,2
+Philosophy and Religion,Be a Mystic,Be present.,Live in the Present,0.52833617,2
+Philosophy and Religion,Be a Mystic,Be present.,Present a Romantic Gift,0.55180544,4
+Philosophy and Religion,Be a Mystic,Be present.,"Choose, Wrap and Present a Gift",0.56496,2
+Philosophy and Religion,Be a Mystic,Be present.,Regift a Present,0.63461643,0
+Philosophy and Religion,Be a Mystic,Be present.,Present Yourself,0.6439406,3
+Philosophy and Religion,Be a Mystic,Be present.,Stay Present,0.6564165,1
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Showcase Your Skills,0.4395813,4
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Use You're and Your,0.44038475,0
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Develop Strengths in Employees,0.47704548,2
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Use Your Singing Talent,0.48009115,4
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Use Your Talent for God,0.48297557,3
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Discover Your Talents,0.5108573000000001,1
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Lead With Your Strengths,0.5278193,1
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Use and Improve Your Abilities,0.55713904,1
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Identify Your Strengths and Weaknesses,0.62357175,1
+Philosophy and Religion,Live,Identify your personal strengths and talents so you can use them.,Identify Your Strengths,0.72141296,1
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Recruit Volunteers,0.45263845,3
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Believe in Yourself,0.46212232,1
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Volunteer at a Hospital,0.4773214,2
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Volunteer Online,0.48300016,1
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Volunteer at United Way,0.4879045,2
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Help Yourself,0.49864888,3
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Benefit from Volunteering,0.5740594,3
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Volunteer to Help During Thanksgiving,0.5798833000000001,1
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Volunteer to Help the Elderly,0.62023616,2
+Philosophy and Religion,Discover Your Purpose and Fulfill Your Destiny,Volunteer to help causes you believe in.,Volunteer,0.6536982,2
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Purify the Air in Your House,0.61547667,3
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Clean Your Car With Home Ingredients,0.62209797,2
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Clean Your Indoor Houseplants,0.63715667,2
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Homestead Your Home,0.6579187,1
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Clean Your Back,0.69458795,3
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Maintain a Clean Home,0.70634556,2
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Keep Your House Clean,0.7120916,2
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Clean Your Cluttered Home Thoroughly,0.74029076,3
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Enjoy Cleaning Your Home,0.7584208,4
+Relationships,Make Your Girlfriend Want to Have Sex With You,Clean your home.,Clean Out Your Home,0.8963128,2
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Tell Your Parents You're Flunking Out,0.61987907,3
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Come Out to Your Best Friend Before Your Parents,0.6438958,3
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Love Your Parents,0.6470538,1
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Understand Your Parents,0.65100205,3
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Open Up to Your Parents,0.6622906999999999,1
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Treat Your Parents,0.6663859000000001,3
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Talk to Your Parents,0.6728954,1
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Get Your Way with Your Parents,0.67575574,4
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Get Your Parents to Go Out,0.8231466999999999,1
+Relationships,Tell Someone You Are Bisexual,Come out to your parents.,Come Out to Your Parents,0.9489399,2
+Relationships,Flirt,Compliment your crush early in the conversation.,Compliment Your Girlfriend,0.47109956,3
+Relationships,Flirt,Compliment your crush early in the conversation.,Talk to Your Crush Without Being Crushed,0.47680974,4
+Relationships,Flirt,Compliment your crush early in the conversation.,Compliment Your Boyfriend,0.49079376,3
+Relationships,Flirt,Compliment your crush early in the conversation.,Talk to Your Crush Casually,0.5058178,1
+Relationships,Flirt,Compliment your crush early in the conversation.,Chat With Your Crush Online,0.5095907999999999,2
+Relationships,Flirt,Compliment your crush early in the conversation.,Get Your Crush to Talk to You,0.54356706,2
+Relationships,Flirt,Compliment your crush early in the conversation.,Text Your Crush and Start a Conversation,0.54460245,4
+Relationships,Flirt,Compliment your crush early in the conversation.,Be Good at Conversations With Your Crush,0.5732555,2
+Relationships,Flirt,Compliment your crush early in the conversation.,Start a Conversation With Your Crush,0.6096498,2
+Relationships,Flirt,Compliment your crush early in the conversation.,Talk to Your Crush,0.61118615,1
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Stage Kiss,0.49878,4
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Peck Kiss a Guy,0.4988224,3
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Have a Sensual Kiss,0.5177797000000001,1
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Blow a Kiss,0.5236902,0
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Be Passionate,0.56026155,0
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Be Kissable,0.5709565,4
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Kiss,0.65082115,2
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Kiss Passionately Without Tongue,0.7339513000000001,3
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Kiss a Boy Passionately,0.8223119000000001,3
+Relationships,Get More Intimate Without Having Sex,Kiss passionately.,Kiss Passionately,0.95956004,1
+Relationships,Become Interesting to Other People,Listen to others.,Make Fun of Others,0.4232223,0
+Relationships,Become Interesting to Other People,Listen to others.,Know if People Aren't Listening to You,0.42771170000000003,4
+Relationships,Become Interesting to Other People,Listen to others.,Be Happy for Others,0.43446156,0
+Relationships,Become Interesting to Other People,Listen to others.,Eavesdrop,0.44544480000000003,4
+Relationships,Become Interesting to Other People,Listen to others.,Influence Others,0.4476236,0
+Relationships,Become Interesting to Other People,Listen to others.,Stand Up for Others,0.46621773,0
+Relationships,Become Interesting to Other People,Listen to others.,Help Others,0.49199444,0
+Relationships,Become Interesting to Other People,Listen to others.,Rest,0.5076689999999999,0
+Relationships,Become Interesting to Other People,Listen to others.,Get People to Listen to You,0.5304715999999999,4
+Relationships,Become Interesting to Other People,Listen to others.,Listen,0.6012859,2
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Make Yourself Not Love Someone,0.48155504,4
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Love and Accept Yourself,0.53146255,3
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Learn to Love Yourself,0.5316586,2
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Make Yourself Love Someone,0.5404956999999999,1
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Like Yourself,0.5620941999999999,4
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Pay Yourself First,0.5847136,4
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Love,0.59885085,3
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Love Yourself Being Single,0.61568403,4
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Get Over Your First Love,0.7109241999999999,3
+Relationships,Find Someone to Love You Unconditionally,Love yourself first.,Love Yourself,0.74996054,2
+Relationships,French Kiss,Read your partner's body language.,Understand Wolf Body Language,0.5065794,0
+Relationships,French Kiss,Read your partner's body language.,Understand a Student's Body Language,0.55494595,4
+Relationships,French Kiss,Read your partner's body language.,Communicate With Body Language,0.56818366,2
+Relationships,French Kiss,Read your partner's body language.,Read Women's Body Language for Flirting,0.57442397,1
+Relationships,French Kiss,Read your partner's body language.,Understand Your Bird's Body Language,0.5777547,0
+Relationships,French Kiss,Read your partner's body language.,Read Men's Body Language for Flirting,0.59455407,1
+Relationships,French Kiss,Read your partner's body language.,Understand Your Dog's Body Language,0.60397905,0
+Relationships,French Kiss,Read your partner's body language.,Read an Ex's Body Language,0.69312775,1
+Relationships,French Kiss,Read your partner's body language.,Read Body Language,0.79637194,1
+Relationships,French Kiss,Read your partner's body language.,Read Your Partner's Body Language,0.97706264,1
+Relationships,Kiss,Set the mood with a romantic compliment.,Give a Romantic Massage,0.48783082,4
+Relationships,Kiss,Set the mood with a romantic compliment.,Cope With Romantic Feelings for Your Roommate,0.49148247,3
+Relationships,Kiss,Set the mood with a romantic compliment.,Make a Romantic Scrapbook,0.49374023,3
+Relationships,Kiss,Set the mood with a romantic compliment.,Come Up with Romantic Ideas,0.5047617,4
+Relationships,Kiss,Set the mood with a romantic compliment.,Write a Romantic Scene,0.5095286,4
+Relationships,Kiss,Set the mood with a romantic compliment.,Give a Compliment,0.5228126000000001,3
+Relationships,Kiss,Set the mood with a romantic compliment.,Decorate a Romantic Room,0.5335901,4
+Relationships,Kiss,Set the mood with a romantic compliment.,Set up a Romantic Bath,0.5432522,3
+Relationships,Kiss,Set the mood with a romantic compliment.,Say Romantic Things,0.544363,3
+Relationships,Kiss,Set the mood with a romantic compliment.,Be Romantic,0.56427085,2
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Breathe Properly for Singing,0.3952095,4
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Treat Bad Breath,0.39582449999999997,0
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Do Deep Relaxation,0.41451913,0
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Stop Heavy Breathing,0.42458236,2
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Catch Your Breath,0.42783459999999995,4
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Stop Mouth Breathing,0.4286446,3
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Breathe Better,0.43832600000000005,3
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Remove Bad Breath,0.45275010000000004,3
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Breathe,0.57015425,3
+Relationships,Cope With Gender Dysphoria,Take a deep breath.,Breathe Deeply,0.8065249,4
+Relationships,Make Fun of Others,Work on your timing.,Kill Time at Work,0.44783998,2
+Relationships,Make Fun of Others,Work on your timing.,Adjust Sewing Machine Timing,0.4517883,1
+Relationships,Make Fun of Others,Work on your timing.,Change a Timing Chain,0.46363294,3
+Relationships,Make Fun of Others,Work on your timing.,Shoot a Pro Timing Day,0.46624127,3
+Relationships,Make Fun of Others,Work on your timing.,Find More Time In Your Work Day,0.47731924,2
+Relationships,Make Fun of Others,Work on your timing.,Work a Flextime Schedule,0.48786956,1
+Relationships,Make Fun of Others,Work on your timing.,Manage Your Time,0.5133474,1
+Relationships,Make Fun of Others,Work on your timing.,Track Working Time,0.5397732,1
+Relationships,Make Fun of Others,Work on your timing.,Get to Work on Time,0.54464114,2
+Relationships,Make Fun of Others,Work on your timing.,Adjust Timing,0.62350476,3
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Eat Avocado for Breakfast,0.6140494000000001,3
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Eat Properly,0.61992294,2
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Make a Breakfast Casserole,0.62683994,4
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Choose a Healthy Fast Food Breakfast,0.65811306,4
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Make a Healthy Breakfast,0.6583157,2
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Eat Pasta for Breakfast,0.67488056,1
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Eat Pizza for Breakfast,0.69304097,4
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Make Healthy Breakfast Meals,0.71871716,4
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Eat Dessert for Breakfast,0.7337030999999999,3
+Sports and Fitness,Do Well at Gymnastics Competitions,Eat a good breakfast.,Eat a Breakfast That Is Good for Your Brain,0.7669425,3
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Stretch Shapewear,0.5213137,0
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Figure out Your Face Shape,0.52637553,0
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Rotate a Shape,0.53851044,0
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Get in Shape for Cheerleading,0.54028606,3
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Get in Shape as a Teen,0.57780695,3
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Have Fun Getting in Shape,0.6079153,1
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Stay in Shape,0.661235,4
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Get in Shape for Track,0.68622303,3
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Get Back in Shape,0.75322855,1
+Sports and Fitness,Become an Ultimate Fighter,Get in shape.,Get in Shape,0.91517544,1
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Reduce Your Energy Consumption,0.52319527,0
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Make Caffeine Free Chai,0.53790265,4
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Cut Down on Coffee Consumption,0.5405691999999999,1
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Minimize Green Tea Caffeine,0.57866085,3
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Handle Caffeine Overdose,0.58765423,4
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Get Caffeine Out of Your System,0.60544306,1
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Overcome Caffeine Addiction,0.60807717,1
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Handle Caffeine Withdrawal,0.61465204,3
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Quit Caffeine,0.6563515000000001,1
+Sports and Fitness,Avoid Overstimulation,Limit your consumption of caffeine.,Reduce the Effects of Caffeine,0.6683698,4
+Work World,Excel in a Retail Job,Be dependable.,Trust and Rely on Jesus,0.39329177,0
+Work World,Excel in a Retail Job,Be dependable.,Buy a Reliable Used Car,0.39762285,0
+Work World,Excel in a Retail Job,Be dependable.,Handle Unreliable Friends,0.3980223,4
+Work World,Excel in a Retail Job,Be dependable.,Be Self Reliant,0.41140282,4
+Work World,Excel in a Retail Job,Be dependable.,Determine if Someone Is Trustworthy,0.41899094,4
+Work World,Excel in a Retail Job,Be dependable.,Make Your Computer Fast and Reliable,0.424766,0
+Work World,Excel in a Retail Job,Be dependable.,Be Confident,0.45823917,4
+Work World,Excel in a Retail Job,Be dependable.,Become a Trustworthy Person,0.50175613,1
+Work World,Excel in a Retail Job,Be dependable.,Be Reliable,0.84390044,1
+Work World,Excel in a Retail Job,Be dependable.,Be Dependable,0.93730444,1
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Befriend Someone,0.5368191,1
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Be a Good Friend,0.5446751,2
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Befriend an Aries,0.55032504,3
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Be Environmentally Friendly,0.58384204,0
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Make a Homemade Friendly's Friend‐Z,0.6042056,0
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Be Eco Friendly,0.60842425,0
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Be a Nice Friend,0.63430196,1
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Be Animal Friendly,0.69672424,0
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Act Friendly,0.71867836,1
+Youth,Have a Great Life As a Teenage Girl,Be friendly.,Be Friendly and Kind,0.79564357,1
+Youth,Be a Good Friend,Be loyal.,Be Reliable,0.38369113,2
+Youth,Be a Good Friend,Be loyal.,Be Loyal to Your Boyfriend or Girlfriend,0.40171477,2
+Youth,Be a Good Friend,Be loyal.,Build Customer Loyalty,0.4437682,4
+Youth,Be a Good Friend,Be loyal.,Write a Devotional,0.47885475,1
+Youth,Be a Good Friend,Be loyal.,Choose a Loyal Partner,0.49774787,3
+Youth,Be a Good Friend,Be loyal.,Bring Up a Loyal Dog,0.5203882000000001,2
+Youth,Be a Good Friend,Be loyal.,Keep Customers Loyal,0.5449562,2
+Youth,Be a Good Friend,Be loyal.,Be a Faithful Christian,0.553856,3
+Youth,Be a Good Friend,Be loyal.,Be Faithful in a Marriage,0.6273607,4
+Youth,Be a Good Friend,Be loyal.,Be Loyal,0.92721355,3
+Youth,Get a Boy to Kiss You,Compliment him.,Compliment a Woman's Personality,0.5135839,4
+Youth,Get a Boy to Kiss You,Compliment him.,Compliment Your Girlfriend,0.57036334,4
+Youth,Get a Boy to Kiss You,Compliment him.,Compliment Your Boyfriend,0.6036562,1
+Youth,Get a Boy to Kiss You,Compliment him.,Take Compliments,0.61294544,0
+Youth,Get a Boy to Kiss You,Compliment him.,Respond to a Compliment,0.6277672,0
+Youth,Get a Boy to Kiss You,Compliment him.,Compliment Girls,0.6285235,4
+Youth,Get a Boy to Kiss You,Compliment him.,Compliment a Woman,0.6359404000000001,3
+Youth,Get a Boy to Kiss You,Compliment him.,Compliment People,0.6802685,2
+Youth,Get a Boy to Kiss You,Compliment him.,Give a Compliment,0.73135126,2
+Youth,Get a Boy to Kiss You,Compliment him.,Compliment a Guy,0.74271554,1
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Have Pulmonary Hygiene,0.59623593,3
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Maintain Feminine Hygiene,0.59974957,3
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Improve Mental Hygiene,0.60140884,0
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Be Hygienic,0.6557956,1
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Practice Good Hand Hygiene,0.66935897,3
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Have Good Hygiene (Girls),0.7059491999999999,1
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Have Good Hygiene (Boys),0.7303399,4
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Have Good Sleep Hygiene,0.75075877,3
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Maintain Good Hygiene,0.75383055,1
+Youth,Do Everything when You're a Girl,Have good personal hygiene.,Teach Personal Hygiene,0.802845,4
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Plan a Feeding Schedule for Your Cat,0.48778599999999994,2
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Buy Futures,0.49340892,0
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Tell the Future,0.49999183,1
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Plan Your Life,0.52119434,2
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Send Email to Your Future Self with FutureMe,0.52672833,2
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Plan Your Business,0.5307346,0
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Handle the Stress of Planning Your Future (for College Students),0.54222333,1
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Build Your Future,0.6291996999999999,1
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Plan For a Successful Future,0.68870586,2
+Youth,Impress People if You Are Just a Kid,Plan for your future.,Plan for Your Future Happiness,0.7924673000000001,2
+Youth,Be the Ideal Girl,Practice good posture.,Practice Anything,0.5059958999999999,3
+Youth,Be the Ideal Girl,Practice good posture.,Improve Your Posture from the Standing Position,0.51153815,4
+Youth,Be the Ideal Girl,Practice good posture.,Have a Good Soccer Practice,0.52095354,4
+Youth,Be the Ideal Girl,Practice good posture.,Exercise,0.52945507,3
+Youth,Be the Ideal Girl,Practice good posture.,Improve Your Posture With Rowing Exercises,0.5331299,3
+Youth,Be the Ideal Girl,Practice good posture.,Read with Good Posture,0.5621938,2
+Youth,Be the Ideal Girl,Practice good posture.,Practice Acting,0.5862955,2
+Youth,Be the Ideal Girl,Practice good posture.,Practice,0.6384929,4
+Youth,Be the Ideal Girl,Practice good posture.,Maintain Good Posture,0.6610438,0
+Youth,Be the Ideal Girl,Practice good posture.,Do Exercises That Enhance Good Posture,0.7170036999999999,3
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money on Groceries,0.65016496,2
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money in College,0.6518198000000001,3
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money to Travel,0.6520935,1
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money for Moving Out,0.65387255,2
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money as a Kid,0.66901547,3
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money with SavedPlus,0.68481576,3
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Earn and Save Money,0.6946218000000001,2
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money Fast,0.69512016,1
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Protect Your Money,0.76715595,0
+Youth,Convince Your Parents You Don't Have to Be Involved with Sports or a Club,Save your money.,Save Money,0.8546976999999999,1
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Set Boundaries in Dog Training,0.49337536,0
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Be Healthy,0.5032177999999999,0
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Set Boundaries when Dating,0.53494567,4
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Maintain Healthy Boundaries As a Massage Therapist,0.54109126,4
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Set Boundaries for Your Kids,0.5482938,4
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Set Boundaries with People,0.6013204000000001,1
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Set Boundaries at Work,0.6130321999999999,4
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Establish Healthy Privacy Boundaries in a Relationship,0.6149974,4
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Establish Boundaries,0.6874111999999999,1
+Youth,Be Friends with Your Parents,Set healthy boundaries.,Set Healthy Boundaries About Helping Others,0.69756544,1
+Youth,Deal With Peer Pressure,Tell your parents.,Tell if Your Parents Are Abusive,0.6900772,1
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents You Are Gay,0.6902031999999999,2
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents That You Are Pregnant,0.69344485,2
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents You Have a Boyfriend,0.7042979,1
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents You Got a Ticket,0.7042999,1
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents You Have a Girlfriend,0.7100728000000001,2
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents You're Flunking Out,0.7220539,0
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents You Smoke,0.7245638000000001,2
+Youth,Deal With Peer Pressure,Tell your parents.,Tell Your Parents You Want to Act,0.7359394,4
+Youth,Deal With Peer Pressure,Tell your parents.,Talk to Your Parents,0.74039453,1
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake Up Peacefully,0.5661546,3
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake Up Without an Alarm Clock,0.57601595,3
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake Up the Right Way,0.57817394,4
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake up Quickly,0.5935305000000001,3
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake Up Early,0.60778916,1
+Youth,Be a Well Rounded Teenager,Wake up on time.,Make Yourself Wake Up,0.61893713,3
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake Up Late and Still Make It on Time,0.6656449000000001,4
+Youth,Be a Well Rounded Teenager,Wake up on time.,Get Up on Time,0.6936861999999999,1
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake Up,0.7599493,1
+Youth,Be a Well Rounded Teenager,Wake up on time.,Wake Up On Time,0.94097036,1

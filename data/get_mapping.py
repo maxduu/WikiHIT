@@ -2,12 +2,12 @@ from os.path import join, isfile, expanduser
 from os import listdir
 import pickle
 import json
-import sys
 
-json_path = '/Desktop/js_files_en/'
-json_path = expanduser("~/Desktop/js_files_en/")
+json_path = 'js_files_en/'
+json_path = expanduser("js_files_en/")
 json_file_list = [f for f in listdir(json_path) if isfile(join(json_path, f))]
 
+goal_to_category = {}
 goal_to_description = {}
 goalstep_to_description = {}
 
@@ -23,7 +23,9 @@ for json_file in json_file_list:
   except TypeError:
     continue
   # found a goal
-  goal_to_description[json_obj['title'][7:]] = json_obj['title_description']
+  goal_to_description[title] = json_obj['title_description']
+  if json_obj['category_hierarchy']:
+      goal_to_category[title] = json_obj['category_hierarchy'][0]
   methods,parts = json_obj['methods'],json_obj['parts']
   steps = json_obj['steps'] if 'steps' in json_obj else []
   section = None
@@ -39,15 +41,17 @@ for json_file in json_file_list:
       steps = []
       for step_obj in section_obj['steps']:
         steps.append(step_obj['headline'])
-        goalstep_to_description[json_obj['title'][7:] + ":" + step_obj['headline']] = step_obj['description']
+        goalstep_to_description[title + ":" + step_obj['headline']] = step_obj['description']
         # found a step
   elif section == 'steps':
     steps = []
     for step_obj in json_obj[section]:
       steps.append(step_obj['headline'])
-      goalstep_to_description[json_obj['title'][7:] + ":" + step_obj['headline']] = step_obj['description']
+      goalstep_to_description[title + ":" + step_obj['headline']] = step_obj['description']
       # found a step
       
+with open('goal_to_category.pkl', 'wb') as handle:
+    pickle.dump(goal_to_category, handle)
       
 with open('goal_to_description.pkl', 'wb') as handle:
     pickle.dump(goal_to_description, handle)
