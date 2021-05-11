@@ -42,8 +42,13 @@ The data visualization module is located under `/visualizer`. This code can be r
 
 ------
 Raw Data: https://github.com/maxduu/WikiHIT/blob/main/data/para_step_goal_links_gold_random.csv
+
 Code to obtain CSV Data: https://github.com/maxduu/WikiHIT/blob/main/data/json_to_csv.py
+
 Sample HIT Output: https://github.com/maxduu/WikiHIT/blob/main/output/sample_output.csv
+
 Sample Output QC & Aggregation: https://github.com/maxduu/WikiHIT/blob/main/output/sample_qc_aggregation_output.csv
+
 Code for QC & Aggregation: https://github.com/maxduu/WikiHIT/blob/main/src/qc_aggregation.py
+
 Data visualization: https://github.com/maxduu/WikiHIT/tree/main/visualizer
