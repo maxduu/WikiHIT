@@ -1,0 +1,5 @@
+export const SETSEARCH = "SETSEARCH"
+export const SETCURRNODE = "SETCURRNODE"
+export const SELECTCHILD = "SELECTCHILD"
+export const GOBACK = "GOBACK"
+export const SETDISPLAY = "SETDISPLAY"
