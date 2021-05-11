@@ -38,7 +38,7 @@ After the quality control module outputs the set of qualified workers, the aggre
 
 Data Visualization:
 
-The data visualization module is located under `/visualization`. This code can be run by opening the visualization folder in an IDE or terminal running 'npm install' and then 'npm run start'. It visualizes the JSON output of the model to create the hierarchical task trees and features two seperate ways of visualizing data, as either an individual 'goal-step' relationship or a tree graph representation. It is built primarily using React and utilizes the npm library React D3 Tree to power the graph view section. 
+The data visualization module is located under `/visualizer`. This code can be run by opening the visualization folder in an IDE or terminal running 'npm install' and then 'npm run start'. It visualizes the JSON output of the model to create the hierarchical task trees and features two seperate ways of visualizing data, as either an individual 'goal-step' relationship or a tree graph representation. It is built primarily using React and utilizes the npm library React D3 Tree to power the graph view section. 
 
 ------
 Raw Data: https://github.com/maxduu/WikiHIT/blob/main/data/para_step_goal_links_gold_random.csv
@@ -46,3 +46,4 @@ Code to obtain CSV Data: https://github.com/maxduu/WikiHIT/blob/main/data/json_t
 Sample HIT Output: https://github.com/maxduu/WikiHIT/blob/main/output/sample_output.csv
 Sample Output QC & Aggregation: https://github.com/maxduu/WikiHIT/blob/main/output/sample_qc_aggregation_output.csv
 Code for QC & Aggregation: https://github.com/maxduu/WikiHIT/blob/main/src/qc_aggregation.py
+Data visualization: https://github.com/maxduu/WikiHIT/tree/main/visualizer
