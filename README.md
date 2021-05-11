@@ -36,6 +36,10 @@ Aggregation:
 
 After the quality control module outputs the set of qualified workers, the aggregation module works as a simple majority vote to obtain the final outputs. For each "step" and its corresponding "retrieved goal," the `aggregation` function in `src/qc_aggregation.py` counts the vote for each of the 5 possible answers. Note that it only counts votes by workers in the set of qualified workers, which is passed in as an argument to the function. After iterating through the entire batch, it finds the answer with the highest vote for each step/goal pair. It then outputs tuples in the form of (step, goal, answer), which are sorted alphabetically by "step" and then "goal." This sorting ensures that in the output CSV, each goal is grouped with the other goals that correspond to the same step.
 
+Data Visualization:
+
+The data visualization module is located under `/visualization`. This code can be run by opening the visualization folder in an IDE or terminal running 'npm install' and then 'npm run start'. It visualizes the JSON output of the model to create the hierarchical task trees and features two seperate ways of visualizing data, as either an individual 'goal-step' relationship or a tree graph representation. It is built primarily using React and utilizes the npm library React D3 Tree to power the graph view section. 
+
 ------
 Raw Data: https://github.com/maxduu/WikiHIT/blob/main/data/para_step_goal_links_gold_random.csv
 Code to obtain CSV Data: https://github.com/maxduu/WikiHIT/blob/main/data/json_to_csv.py
