@@ -29,12 +29,12 @@ If you encounter issues or have any questions, please contact jenyen@seas.upenn.
 ## Code
 Quality Control:
 
-The quality control module is implemented in the `quality_control` function of the `src/qc_aggregation.py`. First, note that each HIT contains two gold standard "goals" for a given step: one goal is positive and clearly should be answered "Exact match," while the other goal is negative and clearly should be answered "Unrelated." For each worker in the MTurk results CSV, the `quality_control` function only adds the worker's ID to a set of qualified workers if (1) over 75% of the positive goals are correctly answered and (2) over 75% of the negative goals are correctly answered. The function then outputs the set of qualified workers for usage in the aggregation module.
+The quality control module is implemented in the `quality_control` function of `output/qc_aggregation/qc_aggregation.py`. First, note that each HIT contains two gold standard "goals" for a given step: one goal is positive and clearly should not be answered "Unrelated," while the other goal is negative and clearly should be answered "Unrelated." For each worker in the MTurk results CSV, the `quality_control` function only adds the worker's ID to a set of qualified workers if (1) over 75% of the positive goals are correctly answered and (2) over 75% of the negative goals are correctly answered. The function then outputs the set of qualified workers for usage in the aggregation module.
 
 
 Aggregation:
 
-After the quality control module outputs the set of qualified workers, the aggregation module works as a simple majority vote to obtain the final outputs. For each "step" and its corresponding "retrieved goal," the `aggregation` function in `src/qc_aggregation.py` counts the vote for each of the 5 possible answers. Note that it only counts votes by workers in the set of qualified workers, which is passed in as an argument to the function. After iterating through the entire batch, it finds the answer with the highest vote for each step/goal pair. It then outputs tuples in the form of (step, goal, answer), which are sorted alphabetically by "step" and then "goal." This sorting ensures that in the output CSV, each goal is grouped with the other goals that correspond to the same step.
+After the quality control module outputs the set of qualified workers, the aggregation module works as a simple majority vote to obtain the final outputs. For each "step" and its corresponding "retrieved goal," the `aggregation` function in `output/qc_aggregation/qc_aggregation.py` counts the vote for each of the 5 possible answers. Note that it only counts votes by workers in the set of qualified workers, which is passed in as an argument to the function. After iterating through the entire batch, it finds the answer with the highest vote for each step/goal pair. It then outputs tuples in the form of (step, goal, answer), which are sorted alphabetically by "step" and then "goal." This sorting ensures that in the output CSV, each goal is grouped with the other goals that correspond to the same step.
 
 Data Visualization:
 
@@ -45,10 +45,12 @@ Raw Data: https://github.com/maxduu/WikiHIT/blob/main/data/para_step_goal_links_
 
 Code to obtain CSV Data: https://github.com/maxduu/WikiHIT/blob/main/data/json_to_csv.py
 
-Sample HIT Output: https://github.com/maxduu/WikiHIT/blob/main/output/sample_output.csv
+HIT Output: https://github.com/maxduu/WikiHIT/blob/main/output/mturk_results/combined_results_mturk.csv
 
-Sample Output QC & Aggregation: https://github.com/maxduu/WikiHIT/blob/main/output/sample_qc_aggregation_output.csv
+QC & Aggregation Output: https://github.com/maxduu/WikiHIT/blob/main/output/qc_aggregation/combined_qc_aggregation_output.csv
 
-Code for QC & Aggregation: https://github.com/maxduu/WikiHIT/blob/main/src/qc_aggregation.py
+Code for QC & Aggregation: https://github.com/maxduu/WikiHIT/blob/main/output/qc_aggregation/qc_aggregation.py
+
+Data analysis: https://github.com/maxduu/WikiHIT/tree/main/output/data_analysis
 
 Data visualization: https://github.com/maxduu/WikiHIT/tree/main/visualizer
